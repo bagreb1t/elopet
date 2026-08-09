@@ -1,0 +1,1226 @@
+nome,porte,energia,espaco_necessario,temperamento,idade
+Thor,Pequeno,1,Apartamento,Brincalhão,1
+Mel,Pequeno,1,Apartamento,Dócil,2
+Luna,Pequeno,1,Apartamento,Sociável,3
+Bob,Pequeno,1,Apartamento,Agitado,4
+Rex,Pequeno,1,Apartamento,Protetor,5
+Aline,Pequeno,1,Apartamento,Calmo,6
+Pipoca,Pequeno,1,Apartamento,Medroso,7
+Billy,Pequeno,1,Casa com quintal pequeno,Brincalhão,8
+Bidu,Pequeno,1,Casa com quintal pequeno,Dócil,9
+Nina,Pequeno,1,Casa com quintal pequeno,Sociável,10
+Amora,Pequeno,1,Casa com quintal pequeno,Agitado,11
+Belinha,Pequeno,1,Casa com quintal pequeno,Protetor,12
+Toby,Pequeno,1,Casa com quintal pequeno,Calmo,1
+Max,Pequeno,1,Casa com quintal pequeno,Medroso,2
+Zeus,Pequeno,1,Casa com quintal grande,Brincalhão,3
+Pandora,Pequeno,1,Casa com quintal grande,Dócil,4
+Snoopy,Pequeno,1,Casa com quintal grande,Sociável,5
+Lola,Pequeno,1,Casa com quintal grande,Agitado,6
+Marley,Pequeno,1,Casa com quintal grande,Protetor,7
+Cacau,Pequeno,1,Casa com quintal grande,Calmo,8
+Simba,Pequeno,1,Casa com quintal grande,Medroso,9
+Fred,Pequeno,2,Apartamento,Brincalhão,10
+Pingo,Pequeno,2,Apartamento,Dócil,11
+Chico,Pequeno,2,Apartamento,Sociável,12
+Pitty,Pequeno,2,Apartamento,Agitado,1
+Frida,Pequeno,2,Apartamento,Protetor,2
+Luke,Pequeno,2,Apartamento,Calmo,3
+Maia,Pequeno,2,Apartamento,Medroso,4
+Teo,Pequeno,2,Casa com quintal pequeno,Brincalhão,5
+Paçoca,Pequeno,2,Casa com quintal pequeno,Dócil,6
+Nala,Pequeno,2,Casa com quintal pequeno,Sociável,7
+Akira,Pequeno,2,Casa com quintal pequeno,Agitado,8
+Cookie,Pequeno,2,Casa com quintal pequeno,Protetor,9
+Kira,Pequeno,2,Casa com quintal pequeno,Calmo,10
+Bartho,Pequeno,2,Casa com quintal pequeno,Medroso,11
+Suzi,Pequeno,2,Casa com quintal grande,Brincalhão,12
+Tutu,Pequeno,2,Casa com quintal grande,Dócil,1
+Jade,Pequeno,2,Casa com quintal grande,Sociável,2
+Milo,Pequeno,2,Casa com quintal grande,Agitado,3
+Cora,Pequeno,2,Casa com quintal grande,Protetor,4
+Thor,Pequeno,2,Casa com quintal grande,Calmo,5
+Mel,Pequeno,2,Casa com quintal grande,Medroso,6
+Luna,Pequeno,3,Apartamento,Brincalhão,7
+Bob,Pequeno,3,Apartamento,Dócil,8
+Rex,Pequeno,3,Apartamento,Sociável,9
+Aline,Pequeno,3,Apartamento,Agitado,10
+Pipoca,Pequeno,3,Apartamento,Protetor,11
+Billy,Pequeno,3,Apartamento,Calmo,12
+Bidu,Pequeno,3,Apartamento,Medroso,1
+Nina,Pequeno,3,Casa com quintal pequeno,Brincalhão,2
+Amora,Pequeno,3,Casa com quintal pequeno,Dócil,3
+Belinha,Pequeno,3,Casa com quintal pequeno,Sociável,4
+Toby,Pequeno,3,Casa com quintal pequeno,Agitado,5
+Max,Pequeno,3,Casa com quintal pequeno,Protetor,6
+Zeus,Pequeno,3,Casa com quintal pequeno,Calmo,7
+Pandora,Pequeno,3,Casa com quintal pequeno,Medroso,8
+Snoopy,Pequeno,3,Casa com quintal grande,Brincalhão,9
+Lola,Pequeno,3,Casa com quintal grande,Dócil,10
+Marley,Pequeno,3,Casa com quintal grande,Sociável,11
+Cacau,Pequeno,3,Casa com quintal grande,Agitado,12
+Simba,Pequeno,3,Casa com quintal grande,Protetor,1
+Fred,Pequeno,3,Casa com quintal grande,Calmo,2
+Pingo,Pequeno,3,Casa com quintal grande,Medroso,3
+Chico,Pequeno,4,Apartamento,Brincalhão,4
+Pitty,Pequeno,4,Apartamento,Dócil,5
+Frida,Pequeno,4,Apartamento,Sociável,6
+Luke,Pequeno,4,Apartamento,Agitado,7
+Maia,Pequeno,4,Apartamento,Protetor,8
+Teo,Pequeno,4,Apartamento,Calmo,9
+Paçoca,Pequeno,4,Apartamento,Medroso,10
+Nala,Pequeno,4,Casa com quintal pequeno,Brincalhão,11
+Akira,Pequeno,4,Casa com quintal pequeno,Dócil,12
+Cookie,Pequeno,4,Casa com quintal pequeno,Sociável,1
+Kira,Pequeno,4,Casa com quintal pequeno,Agitado,2
+Bartho,Pequeno,4,Casa com quintal pequeno,Protetor,3
+Suzi,Pequeno,4,Casa com quintal pequeno,Calmo,4
+Tutu,Pequeno,4,Casa com quintal pequeno,Medroso,5
+Jade,Pequeno,4,Casa com quintal grande,Brincalhão,6
+Milo,Pequeno,4,Casa com quintal grande,Dócil,7
+Cora,Pequeno,4,Casa com quintal grande,Sociável,8
+Thor,Pequeno,4,Casa com quintal grande,Agitado,9
+Mel,Pequeno,4,Casa com quintal grande,Protetor,10
+Luna,Pequeno,4,Casa com quintal grande,Calmo,11
+Bob,Pequeno,4,Casa com quintal grande,Medroso,12
+Rex,Pequeno,5,Apartamento,Brincalhão,1
+Aline,Pequeno,5,Apartamento,Dócil,2
+Pipoca,Pequeno,5,Apartamento,Sociável,3
+Billy,Pequeno,5,Apartamento,Agitado,4
+Bidu,Pequeno,5,Apartamento,Protetor,5
+Nina,Pequeno,5,Apartamento,Calmo,6
+Amora,Pequeno,5,Apartamento,Medroso,7
+Belinha,Pequeno,5,Casa com quintal pequeno,Brincalhão,8
+Toby,Pequeno,5,Casa com quintal pequeno,Dócil,9
+Max,Pequeno,5,Casa com quintal pequeno,Sociável,10
+Zeus,Pequeno,5,Casa com quintal pequeno,Agitado,11
+Pandora,Pequeno,5,Casa com quintal pequeno,Protetor,12
+Snoopy,Pequeno,5,Casa com quintal pequeno,Calmo,1
+Lola,Pequeno,5,Casa com quintal pequeno,Medroso,2
+Marley,Pequeno,5,Casa com quintal grande,Brincalhão,3
+Cacau,Pequeno,5,Casa com quintal grande,Dócil,4
+Simba,Pequeno,5,Casa com quintal grande,Sociável,5
+Fred,Pequeno,5,Casa com quintal grande,Agitado,6
+Pingo,Pequeno,5,Casa com quintal grande,Protetor,7
+Chico,Pequeno,5,Casa com quintal grande,Calmo,8
+Pitty,Pequeno,5,Casa com quintal grande,Medroso,9
+Frida,Médio,1,Apartamento,Brincalhão,10
+Luke,Médio,1,Apartamento,Dócil,11
+Maia,Médio,1,Apartamento,Sociável,12
+Teo,Médio,1,Apartamento,Agitado,1
+Paçoca,Médio,1,Apartamento,Protetor,2
+Nala,Médio,1,Apartamento,Calmo,3
+Akira,Médio,1,Apartamento,Medroso,4
+Cookie,Médio,1,Casa com quintal pequeno,Brincalhão,5
+Kira,Médio,1,Casa com quintal pequeno,Dócil,6
+Bartho,Médio,1,Casa com quintal pequeno,Sociável,7
+Suzi,Médio,1,Casa com quintal pequeno,Agitado,8
+Tutu,Médio,1,Casa com quintal pequeno,Protetor,9
+Jade,Médio,1,Casa com quintal pequeno,Calmo,10
+Milo,Médio,1,Casa com quintal pequeno,Medroso,11
+Cora,Médio,1,Casa com quintal grande,Brincalhão,12
+Thor,Médio,1,Casa com quintal grande,Dócil,1
+Mel,Médio,1,Casa com quintal grande,Sociável,2
+Luna,Médio,1,Casa com quintal grande,Agitado,3
+Bob,Médio,1,Casa com quintal grande,Protetor,4
+Rex,Médio,1,Casa com quintal grande,Calmo,5
+Aline,Médio,1,Casa com quintal grande,Medroso,6
+Pipoca,Médio,2,Apartamento,Brincalhão,7
+Billy,Médio,2,Apartamento,Dócil,8
+Bidu,Médio,2,Apartamento,Sociável,9
+Nina,Médio,2,Apartamento,Agitado,10
+Amora,Médio,2,Apartamento,Protetor,11
+Belinha,Médio,2,Apartamento,Calmo,12
+Toby,Médio,2,Apartamento,Medroso,1
+Max,Médio,2,Casa com quintal pequeno,Brincalhão,2
+Zeus,Médio,2,Casa com quintal pequeno,Dócil,3
+Pandora,Médio,2,Casa com quintal pequeno,Sociável,4
+Snoopy,Médio,2,Casa com quintal pequeno,Agitado,5
+Lola,Médio,2,Casa com quintal pequeno,Protetor,6
+Marley,Médio,2,Casa com quintal pequeno,Calmo,7
+Cacau,Médio,2,Casa com quintal pequeno,Medroso,8
+Simba,Médio,2,Casa com quintal grande,Brincalhão,9
+Fred,Médio,2,Casa com quintal grande,Dócil,10
+Pingo,Médio,2,Casa com quintal grande,Sociável,11
+Chico,Médio,2,Casa com quintal grande,Agitado,12
+Pitty,Médio,2,Casa com quintal grande,Protetor,1
+Frida,Médio,2,Casa com quintal grande,Calmo,2
+Luke,Médio,2,Casa com quintal grande,Medroso,3
+Maia,Médio,3,Apartamento,Brincalhão,4
+Teo,Médio,3,Apartamento,Dócil,5
+Paçoca,Médio,3,Apartamento,Sociável,6
+Nala,Médio,3,Apartamento,Agitado,7
+Akira,Médio,3,Apartamento,Protetor,8
+Cookie,Médio,3,Apartamento,Calmo,9
+Kira,Médio,3,Apartamento,Medroso,10
+Bartho,Médio,3,Casa com quintal pequeno,Brincalhão,11
+Suzi,Médio,3,Casa com quintal pequeno,Dócil,12
+Tutu,Médio,3,Casa com quintal pequeno,Sociável,1
+Jade,Médio,3,Casa com quintal pequeno,Agitado,2
+Milo,Médio,3,Casa com quintal pequeno,Protetor,3
+Cora,Médio,3,Casa com quintal pequeno,Calmo,4
+Thor,Médio,3,Casa com quintal pequeno,Medroso,5
+Mel,Médio,3,Casa com quintal grande,Brincalhão,6
+Luna,Médio,3,Casa com quintal grande,Dócil,7
+Bob,Médio,3,Casa com quintal grande,Sociável,8
+Rex,Médio,3,Casa com quintal grande,Agitado,9
+Aline,Médio,3,Casa com quintal grande,Protetor,10
+Pipoca,Médio,3,Casa com quintal grande,Calmo,11
+Billy,Médio,3,Casa com quintal grande,Medroso,12
+Bidu,Médio,4,Apartamento,Brincalhão,1
+Nina,Médio,4,Apartamento,Dócil,2
+Amora,Médio,4,Apartamento,Sociável,3
+Belinha,Médio,4,Apartamento,Agitado,4
+Toby,Médio,4,Apartamento,Protetor,5
+Max,Médio,4,Apartamento,Calmo,6
+Zeus,Médio,4,Apartamento,Medroso,7
+Pandora,Médio,4,Casa com quintal pequeno,Brincalhão,8
+Snoopy,Médio,4,Casa com quintal pequeno,Dócil,9
+Lola,Médio,4,Casa com quintal pequeno,Sociável,10
+Marley,Médio,4,Casa com quintal pequeno,Agitado,11
+Cacau,Médio,4,Casa com quintal pequeno,Protetor,12
+Simba,Médio,4,Casa com quintal pequeno,Calmo,1
+Fred,Médio,4,Casa com quintal pequeno,Medroso,2
+Pingo,Médio,4,Casa com quintal grande,Brincalhão,3
+Chico,Médio,4,Casa com quintal grande,Dócil,4
+Pitty,Médio,4,Casa com quintal grande,Sociável,5
+Frida,Médio,4,Casa com quintal grande,Agitado,6
+Luke,Médio,4,Casa com quintal grande,Protetor,7
+Maia,Médio,4,Casa com quintal grande,Calmo,8
+Teo,Médio,4,Casa com quintal grande,Medroso,9
+Paçoca,Médio,5,Apartamento,Brincalhão,10
+Nala,Médio,5,Apartamento,Dócil,11
+Akira,Médio,5,Apartamento,Sociável,12
+Cookie,Médio,5,Apartamento,Agitado,1
+Kira,Médio,5,Apartamento,Protetor,2
+Bartho,Médio,5,Apartamento,Calmo,3
+Suzi,Médio,5,Apartamento,Medroso,4
+Tutu,Médio,5,Casa com quintal pequeno,Brincalhão,5
+Jade,Médio,5,Casa com quintal pequeno,Dócil,6
+Milo,Médio,5,Casa com quintal pequeno,Sociável,7
+Cora,Médio,5,Casa com quintal pequeno,Agitado,8
+Thor,Médio,5,Casa com quintal pequeno,Protetor,9
+Mel,Médio,5,Casa com quintal pequeno,Calmo,10
+Luna,Médio,5,Casa com quintal pequeno,Medroso,11
+Bob,Médio,5,Casa com quintal grande,Brincalhão,12
+Rex,Médio,5,Casa com quintal grande,Dócil,1
+Aline,Médio,5,Casa com quintal grande,Sociável,2
+Pipoca,Médio,5,Casa com quintal grande,Agitado,3
+Billy,Médio,5,Casa com quintal grande,Protetor,4
+Bidu,Médio,5,Casa com quintal grande,Calmo,5
+Nina,Médio,5,Casa com quintal grande,Medroso,6
+Amora,Grande,1,Apartamento,Brincalhão,7
+Belinha,Grande,1,Apartamento,Dócil,8
+Toby,Grande,1,Apartamento,Sociável,9
+Max,Grande,1,Apartamento,Agitado,10
+Zeus,Grande,1,Apartamento,Protetor,11
+Pandora,Grande,1,Apartamento,Calmo,12
+Snoopy,Grande,1,Apartamento,Medroso,1
+Lola,Grande,1,Casa com quintal pequeno,Brincalhão,2
+Marley,Grande,1,Casa com quintal pequeno,Dócil,3
+Cacau,Grande,1,Casa com quintal pequeno,Sociável,4
+Simba,Grande,1,Casa com quintal pequeno,Agitado,5
+Fred,Grande,1,Casa com quintal pequeno,Protetor,6
+Pingo,Grande,1,Casa com quintal pequeno,Calmo,7
+Chico,Grande,1,Casa com quintal pequeno,Medroso,8
+Pitty,Grande,1,Casa com quintal grande,Brincalhão,9
+Frida,Grande,1,Casa com quintal grande,Dócil,10
+Luke,Grande,1,Casa com quintal grande,Sociável,11
+Maia,Grande,1,Casa com quintal grande,Agitado,12
+Teo,Grande,1,Casa com quintal grande,Protetor,1
+Paçoca,Grande,1,Casa com quintal grande,Calmo,2
+Nala,Grande,1,Casa com quintal grande,Medroso,3
+Akira,Grande,2,Apartamento,Brincalhão,4
+Cookie,Grande,2,Apartamento,Dócil,5
+Kira,Grande,2,Apartamento,Sociável,6
+Bartho,Grande,2,Apartamento,Agitado,7
+Suzi,Grande,2,Apartamento,Protetor,8
+Tutu,Grande,2,Apartamento,Calmo,9
+Jade,Grande,2,Apartamento,Medroso,10
+Milo,Grande,2,Casa com quintal pequeno,Brincalhão,11
+Cora,Grande,2,Casa com quintal pequeno,Dócil,12
+Thor,Grande,2,Casa com quintal pequeno,Sociável,1
+Mel,Grande,2,Casa com quintal pequeno,Agitado,2
+Luna,Grande,2,Casa com quintal pequeno,Protetor,3
+Bob,Grande,2,Casa com quintal pequeno,Calmo,4
+Rex,Grande,2,Casa com quintal pequeno,Medroso,5
+Aline,Grande,2,Casa com quintal grande,Brincalhão,6
+Pipoca,Grande,2,Casa com quintal grande,Dócil,7
+Billy,Grande,2,Casa com quintal grande,Sociável,8
+Bidu,Grande,2,Casa com quintal grande,Agitado,9
+Nina,Grande,2,Casa com quintal grande,Protetor,10
+Amora,Grande,2,Casa com quintal grande,Calmo,11
+Belinha,Grande,2,Casa com quintal grande,Medroso,12
+Toby,Grande,3,Apartamento,Brincalhão,1
+Max,Grande,3,Apartamento,Dócil,2
+Zeus,Grande,3,Apartamento,Sociável,3
+Pandora,Grande,3,Apartamento,Agitado,4
+Snoopy,Grande,3,Apartamento,Protetor,5
+Lola,Grande,3,Apartamento,Calmo,6
+Marley,Grande,3,Apartamento,Medroso,7
+Cacau,Grande,3,Casa com quintal pequeno,Brincalhão,8
+Simba,Grande,3,Casa com quintal pequeno,Dócil,9
+Fred,Grande,3,Casa com quintal pequeno,Sociável,10
+Pingo,Grande,3,Casa com quintal pequeno,Agitado,11
+Chico,Grande,3,Casa com quintal pequeno,Protetor,12
+Pitty,Grande,3,Casa com quintal pequeno,Calmo,1
+Frida,Grande,3,Casa com quintal pequeno,Medroso,2
+Luke,Grande,3,Casa com quintal grande,Brincalhão,3
+Maia,Grande,3,Casa com quintal grande,Dócil,4
+Teo,Grande,3,Casa com quintal grande,Sociável,5
+Paçoca,Grande,3,Casa com quintal grande,Agitado,6
+Nala,Grande,3,Casa com quintal grande,Protetor,7
+Akira,Grande,3,Casa com quintal grande,Calmo,8
+Cookie,Grande,3,Casa com quintal grande,Medroso,9
+Kira,Grande,4,Apartamento,Brincalhão,10
+Bartho,Grande,4,Apartamento,Dócil,11
+Suzi,Grande,4,Apartamento,Sociável,12
+Tutu,Grande,4,Apartamento,Agitado,1
+Jade,Grande,4,Apartamento,Protetor,2
+Milo,Grande,4,Apartamento,Calmo,3
+Cora,Grande,4,Apartamento,Medroso,4
+Thor,Grande,4,Casa com quintal pequeno,Brincalhão,5
+Mel,Grande,4,Casa com quintal pequeno,Dócil,6
+Luna,Grande,4,Casa com quintal pequeno,Sociável,7
+Bob,Grande,4,Casa com quintal pequeno,Agitado,8
+Rex,Grande,4,Casa com quintal pequeno,Protetor,9
+Aline,Grande,4,Casa com quintal pequeno,Calmo,10
+Pipoca,Grande,4,Casa com quintal pequeno,Medroso,11
+Billy,Grande,4,Casa com quintal grande,Brincalhão,12
+Bidu,Grande,4,Casa com quintal grande,Dócil,1
+Nina,Grande,4,Casa com quintal grande,Sociável,2
+Amora,Grande,4,Casa com quintal grande,Agitado,3
+Belinha,Grande,4,Casa com quintal grande,Protetor,4
+Toby,Grande,4,Casa com quintal grande,Calmo,5
+Max,Grande,4,Casa com quintal grande,Medroso,6
+Zeus,Grande,5,Apartamento,Brincalhão,7
+Pandora,Grande,5,Apartamento,Dócil,8
+Snoopy,Grande,5,Apartamento,Sociável,9
+Lola,Grande,5,Apartamento,Agitado,10
+Marley,Grande,5,Apartamento,Protetor,11
+Cacau,Grande,5,Apartamento,Calmo,12
+Simba,Grande,5,Apartamento,Medroso,1
+Fred,Grande,5,Casa com quintal pequeno,Brincalhão,2
+Pingo,Grande,5,Casa com quintal pequeno,Dócil,3
+Chico,Grande,5,Casa com quintal pequeno,Sociável,4
+Pitty,Grande,5,Casa com quintal pequeno,Agitado,5
+Frida,Grande,5,Casa com quintal pequeno,Protetor,6
+Luke,Grande,5,Casa com quintal pequeno,Calmo,7
+Maia,Grande,5,Casa com quintal pequeno,Medroso,8
+Teo,Grande,5,Casa com quintal grande,Brincalhão,9
+Paçoca,Grande,5,Casa com quintal grande,Dócil,10
+Nala,Grande,5,Casa com quintal grande,Sociável,11
+Akira,Grande,5,Casa com quintal grande,Agitado,12
+Cookie,Grande,5,Casa com quintal grande,Protetor,1
+Kira,Grande,5,Casa com quintal grande,Calmo,2
+Bartho,Grande,5,Casa com quintal grande,Medroso,3
+Suzi,Pequeno,1,Apartamento,Brincalhão,4
+Tutu,Pequeno,1,Apartamento,Dócil,5
+Jade,Pequeno,1,Apartamento,Sociável,6
+Milo,Pequeno,1,Apartamento,Agitado,7
+Cora,Pequeno,1,Apartamento,Protetor,8
+Thor,Pequeno,1,Apartamento,Calmo,9
+Mel,Pequeno,1,Apartamento,Medroso,10
+Luna,Pequeno,1,Casa com quintal pequeno,Brincalhão,11
+Bob,Pequeno,1,Casa com quintal pequeno,Dócil,12
+Rex,Pequeno,1,Casa com quintal pequeno,Sociável,1
+Aline,Pequeno,1,Casa com quintal pequeno,Agitado,2
+Pipoca,Pequeno,1,Casa com quintal pequeno,Protetor,3
+Billy,Pequeno,1,Casa com quintal pequeno,Calmo,4
+Bidu,Pequeno,1,Casa com quintal pequeno,Medroso,5
+Nina,Pequeno,1,Casa com quintal grande,Brincalhão,6
+Amora,Pequeno,1,Casa com quintal grande,Dócil,7
+Belinha,Pequeno,1,Casa com quintal grande,Sociável,8
+Toby,Pequeno,1,Casa com quintal grande,Agitado,9
+Max,Pequeno,1,Casa com quintal grande,Protetor,10
+Zeus,Pequeno,1,Casa com quintal grande,Calmo,11
+Pandora,Pequeno,1,Casa com quintal grande,Medroso,12
+Snoopy,Pequeno,2,Apartamento,Brincalhão,1
+Lola,Pequeno,2,Apartamento,Dócil,2
+Marley,Pequeno,2,Apartamento,Sociável,3
+Cacau,Pequeno,2,Apartamento,Agitado,4
+Simba,Pequeno,2,Apartamento,Protetor,5
+Fred,Pequeno,2,Apartamento,Calmo,6
+Pingo,Pequeno,2,Apartamento,Medroso,7
+Chico,Pequeno,2,Casa com quintal pequeno,Brincalhão,8
+Pitty,Pequeno,2,Casa com quintal pequeno,Dócil,9
+Frida,Pequeno,2,Casa com quintal pequeno,Sociável,10
+Luke,Pequeno,2,Casa com quintal pequeno,Agitado,11
+Maia,Pequeno,2,Casa com quintal pequeno,Protetor,12
+Teo,Pequeno,2,Casa com quintal pequeno,Calmo,1
+Paçoca,Pequeno,2,Casa com quintal pequeno,Medroso,2
+Nala,Pequeno,2,Casa com quintal grande,Brincalhão,3
+Akira,Pequeno,2,Casa com quintal grande,Dócil,4
+Cookie,Pequeno,2,Casa com quintal grande,Sociável,5
+Kira,Pequeno,2,Casa com quintal grande,Agitado,6
+Bartho,Pequeno,2,Casa com quintal grande,Protetor,7
+Suzi,Pequeno,2,Casa com quintal grande,Calmo,8
+Tutu,Pequeno,2,Casa com quintal grande,Medroso,9
+Jade,Pequeno,3,Apartamento,Brincalhão,10
+Milo,Pequeno,3,Apartamento,Dócil,11
+Cora,Pequeno,3,Apartamento,Sociável,12
+Thor,Pequeno,3,Apartamento,Agitado,1
+Mel,Pequeno,3,Apartamento,Protetor,2
+Luna,Pequeno,3,Apartamento,Calmo,3
+Bob,Pequeno,3,Apartamento,Medroso,4
+Rex,Pequeno,3,Casa com quintal pequeno,Brincalhão,5
+Aline,Pequeno,3,Casa com quintal pequeno,Dócil,6
+Pipoca,Pequeno,3,Casa com quintal pequeno,Sociável,7
+Billy,Pequeno,3,Casa com quintal pequeno,Agitado,8
+Bidu,Pequeno,3,Casa com quintal pequeno,Protetor,9
+Nina,Pequeno,3,Casa com quintal pequeno,Calmo,10
+Amora,Pequeno,3,Casa com quintal pequeno,Medroso,11
+Belinha,Pequeno,3,Casa com quintal grande,Brincalhão,12
+Toby,Pequeno,3,Casa com quintal grande,Dócil,1
+Max,Pequeno,3,Casa com quintal grande,Sociável,2
+Zeus,Pequeno,3,Casa com quintal grande,Agitado,3
+Pandora,Pequeno,3,Casa com quintal grande,Protetor,4
+Snoopy,Pequeno,3,Casa com quintal grande,Calmo,5
+Lola,Pequeno,3,Casa com quintal grande,Medroso,6
+Marley,Pequeno,4,Apartamento,Brincalhão,7
+Cacau,Pequeno,4,Apartamento,Dócil,8
+Simba,Pequeno,4,Apartamento,Sociável,9
+Fred,Pequeno,4,Apartamento,Agitado,10
+Pingo,Pequeno,4,Apartamento,Protetor,11
+Chico,Pequeno,4,Apartamento,Calmo,12
+Pitty,Pequeno,4,Apartamento,Medroso,1
+Frida,Pequeno,4,Casa com quintal pequeno,Brincalhão,2
+Luke,Pequeno,4,Casa com quintal pequeno,Dócil,3
+Maia,Pequeno,4,Casa com quintal pequeno,Sociável,4
+Teo,Pequeno,4,Casa com quintal pequeno,Agitado,5
+Paçoca,Pequeno,4,Casa com quintal pequeno,Protetor,6
+Nala,Pequeno,4,Casa com quintal pequeno,Calmo,7
+Akira,Pequeno,4,Casa com quintal pequeno,Medroso,8
+Cookie,Pequeno,4,Casa com quintal grande,Brincalhão,9
+Kira,Pequeno,4,Casa com quintal grande,Dócil,10
+Bartho,Pequeno,4,Casa com quintal grande,Sociável,11
+Suzi,Pequeno,4,Casa com quintal grande,Agitado,12
+Tutu,Pequeno,4,Casa com quintal grande,Protetor,1
+Jade,Pequeno,4,Casa com quintal grande,Calmo,2
+Milo,Pequeno,4,Casa com quintal grande,Medroso,3
+Cora,Pequeno,5,Apartamento,Brincalhão,4
+Thor,Pequeno,5,Apartamento,Dócil,5
+Mel,Pequeno,5,Apartamento,Sociável,6
+Luna,Pequeno,5,Apartamento,Agitado,7
+Bob,Pequeno,5,Apartamento,Protetor,8
+Rex,Pequeno,5,Apartamento,Calmo,9
+Aline,Pequeno,5,Apartamento,Medroso,10
+Pipoca,Pequeno,5,Casa com quintal pequeno,Brincalhão,11
+Billy,Pequeno,5,Casa com quintal pequeno,Dócil,12
+Bidu,Pequeno,5,Casa com quintal pequeno,Sociável,1
+Nina,Pequeno,5,Casa com quintal pequeno,Agitado,2
+Amora,Pequeno,5,Casa com quintal pequeno,Protetor,3
+Belinha,Pequeno,5,Casa com quintal pequeno,Calmo,4
+Toby,Pequeno,5,Casa com quintal pequeno,Medroso,5
+Max,Pequeno,5,Casa com quintal grande,Brincalhão,6
+Zeus,Pequeno,5,Casa com quintal grande,Dócil,7
+Pandora,Pequeno,5,Casa com quintal grande,Sociável,8
+Snoopy,Pequeno,5,Casa com quintal grande,Agitado,9
+Lola,Pequeno,5,Casa com quintal grande,Protetor,10
+Marley,Pequeno,5,Casa com quintal grande,Calmo,11
+Cacau,Pequeno,5,Casa com quintal grande,Medroso,12
+Simba,Médio,1,Apartamento,Brincalhão,1
+Fred,Médio,1,Apartamento,Dócil,2
+Pingo,Médio,1,Apartamento,Sociável,3
+Chico,Médio,1,Apartamento,Agitado,4
+Pitty,Médio,1,Apartamento,Protetor,5
+Frida,Médio,1,Apartamento,Calmo,6
+Luke,Médio,1,Apartamento,Medroso,7
+Maia,Médio,1,Casa com quintal pequeno,Brincalhão,8
+Teo,Médio,1,Casa com quintal pequeno,Dócil,9
+Paçoca,Médio,1,Casa com quintal pequeno,Sociável,10
+Nala,Médio,1,Casa com quintal pequeno,Agitado,11
+Akira,Médio,1,Casa com quintal pequeno,Protetor,12
+Cookie,Médio,1,Casa com quintal pequeno,Calmo,1
+Kira,Médio,1,Casa com quintal pequeno,Medroso,2
+Bartho,Médio,1,Casa com quintal grande,Brincalhão,3
+Suzi,Médio,1,Casa com quintal grande,Dócil,4
+Tutu,Médio,1,Casa com quintal grande,Sociável,5
+Jade,Médio,1,Casa com quintal grande,Agitado,6
+Milo,Médio,1,Casa com quintal grande,Protetor,7
+Cora,Médio,1,Casa com quintal grande,Calmo,8
+Thor,Médio,1,Casa com quintal grande,Medroso,9
+Mel,Médio,2,Apartamento,Brincalhão,10
+Luna,Médio,2,Apartamento,Dócil,11
+Bob,Médio,2,Apartamento,Sociável,12
+Rex,Médio,2,Apartamento,Agitado,1
+Aline,Médio,2,Apartamento,Protetor,2
+Pipoca,Médio,2,Apartamento,Calmo,3
+Billy,Médio,2,Apartamento,Medroso,4
+Bidu,Médio,2,Casa com quintal pequeno,Brincalhão,5
+Nina,Médio,2,Casa com quintal pequeno,Dócil,6
+Amora,Médio,2,Casa com quintal pequeno,Sociável,7
+Belinha,Médio,2,Casa com quintal pequeno,Agitado,8
+Toby,Médio,2,Casa com quintal pequeno,Protetor,9
+Max,Médio,2,Casa com quintal pequeno,Calmo,10
+Zeus,Médio,2,Casa com quintal pequeno,Medroso,11
+Pandora,Médio,2,Casa com quintal grande,Brincalhão,12
+Snoopy,Médio,2,Casa com quintal grande,Dócil,1
+Lola,Médio,2,Casa com quintal grande,Sociável,2
+Marley,Médio,2,Casa com quintal grande,Agitado,3
+Cacau,Médio,2,Casa com quintal grande,Protetor,4
+Simba,Médio,2,Casa com quintal grande,Calmo,5
+Fred,Médio,2,Casa com quintal grande,Medroso,6
+Pingo,Médio,3,Apartamento,Brincalhão,7
+Chico,Médio,3,Apartamento,Dócil,8
+Pitty,Médio,3,Apartamento,Sociável,9
+Frida,Médio,3,Apartamento,Agitado,10
+Luke,Médio,3,Apartamento,Protetor,11
+Maia,Médio,3,Apartamento,Calmo,12
+Teo,Médio,3,Apartamento,Medroso,1
+Paçoca,Médio,3,Casa com quintal pequeno,Brincalhão,2
+Nala,Médio,3,Casa com quintal pequeno,Dócil,3
+Akira,Médio,3,Casa com quintal pequeno,Sociável,4
+Cookie,Médio,3,Casa com quintal pequeno,Agitado,5
+Kira,Médio,3,Casa com quintal pequeno,Protetor,6
+Bartho,Médio,3,Casa com quintal pequeno,Calmo,7
+Suzi,Médio,3,Casa com quintal pequeno,Medroso,8
+Tutu,Médio,3,Casa com quintal grande,Brincalhão,9
+Jade,Médio,3,Casa com quintal grande,Dócil,10
+Milo,Médio,3,Casa com quintal grande,Sociável,11
+Cora,Médio,3,Casa com quintal grande,Agitado,12
+Thor,Médio,3,Casa com quintal grande,Protetor,1
+Mel,Médio,3,Casa com quintal grande,Calmo,2
+Luna,Médio,3,Casa com quintal grande,Medroso,3
+Bob,Médio,4,Apartamento,Brincalhão,4
+Rex,Médio,4,Apartamento,Dócil,5
+Aline,Médio,4,Apartamento,Sociável,6
+Pipoca,Médio,4,Apartamento,Agitado,7
+Billy,Médio,4,Apartamento,Protetor,8
+Bidu,Médio,4,Apartamento,Calmo,9
+Nina,Médio,4,Apartamento,Medroso,10
+Amora,Médio,4,Casa com quintal pequeno,Brincalhão,11
+Belinha,Médio,4,Casa com quintal pequeno,Dócil,12
+Toby,Médio,4,Casa com quintal pequeno,Sociável,1
+Max,Médio,4,Casa com quintal pequeno,Agitado,2
+Zeus,Médio,4,Casa com quintal pequeno,Protetor,3
+Pandora,Médio,4,Casa com quintal pequeno,Calmo,4
+Snoopy,Médio,4,Casa com quintal pequeno,Medroso,5
+Lola,Médio,4,Casa com quintal grande,Brincalhão,6
+Marley,Médio,4,Casa com quintal grande,Dócil,7
+Cacau,Médio,4,Casa com quintal grande,Sociável,8
+Simba,Médio,4,Casa com quintal grande,Agitado,9
+Fred,Médio,4,Casa com quintal grande,Protetor,10
+Pingo,Médio,4,Casa com quintal grande,Calmo,11
+Chico,Médio,4,Casa com quintal grande,Medroso,12
+Pitty,Médio,5,Apartamento,Brincalhão,1
+Frida,Médio,5,Apartamento,Dócil,2
+Luke,Médio,5,Apartamento,Sociável,3
+Maia,Médio,5,Apartamento,Agitado,4
+Teo,Médio,5,Apartamento,Protetor,5
+Paçoca,Médio,5,Apartamento,Calmo,6
+Nala,Médio,5,Apartamento,Medroso,7
+Akira,Médio,5,Casa com quintal pequeno,Brincalhão,8
+Cookie,Médio,5,Casa com quintal pequeno,Dócil,9
+Kira,Médio,5,Casa com quintal pequeno,Sociável,10
+Bartho,Médio,5,Casa com quintal pequeno,Agitado,11
+Suzi,Médio,5,Casa com quintal pequeno,Protetor,12
+Tutu,Médio,5,Casa com quintal pequeno,Calmo,1
+Jade,Médio,5,Casa com quintal pequeno,Medroso,2
+Milo,Médio,5,Casa com quintal grande,Brincalhão,3
+Cora,Médio,5,Casa com quintal grande,Dócil,4
+Thor,Médio,5,Casa com quintal grande,Sociável,5
+Mel,Médio,5,Casa com quintal grande,Agitado,6
+Luna,Médio,5,Casa com quintal grande,Protetor,7
+Bob,Médio,5,Casa com quintal grande,Calmo,8
+Rex,Médio,5,Casa com quintal grande,Medroso,9
+Aline,Grande,1,Apartamento,Brincalhão,10
+Pipoca,Grande,1,Apartamento,Dócil,11
+Billy,Grande,1,Apartamento,Sociável,12
+Bidu,Grande,1,Apartamento,Agitado,1
+Nina,Grande,1,Apartamento,Protetor,2
+Amora,Grande,1,Apartamento,Calmo,3
+Belinha,Grande,1,Apartamento,Medroso,4
+Toby,Grande,1,Casa com quintal pequeno,Brincalhão,5
+Max,Grande,1,Casa com quintal pequeno,Dócil,6
+Zeus,Grande,1,Casa com quintal pequeno,Sociável,7
+Pandora,Grande,1,Casa com quintal pequeno,Agitado,8
+Snoopy,Grande,1,Casa com quintal pequeno,Protetor,9
+Lola,Grande,1,Casa com quintal pequeno,Calmo,10
+Marley,Grande,1,Casa com quintal pequeno,Medroso,11
+Cacau,Grande,1,Casa com quintal grande,Brincalhão,12
+Simba,Grande,1,Casa com quintal grande,Dócil,1
+Fred,Grande,1,Casa com quintal grande,Sociável,2
+Pingo,Grande,1,Casa com quintal grande,Agitado,3
+Chico,Grande,1,Casa com quintal grande,Protetor,4
+Pitty,Grande,1,Casa com quintal grande,Calmo,5
+Frida,Grande,1,Casa com quintal grande,Medroso,6
+Luke,Grande,2,Apartamento,Brincalhão,7
+Maia,Grande,2,Apartamento,Dócil,8
+Teo,Grande,2,Apartamento,Sociável,9
+Paçoca,Grande,2,Apartamento,Agitado,10
+Nala,Grande,2,Apartamento,Protetor,11
+Akira,Grande,2,Apartamento,Calmo,12
+Cookie,Grande,2,Apartamento,Medroso,1
+Kira,Grande,2,Casa com quintal pequeno,Brincalhão,2
+Bartho,Grande,2,Casa com quintal pequeno,Dócil,3
+Suzi,Grande,2,Casa com quintal pequeno,Sociável,4
+Tutu,Grande,2,Casa com quintal pequeno,Agitado,5
+Jade,Grande,2,Casa com quintal pequeno,Protetor,6
+Milo,Grande,2,Casa com quintal pequeno,Calmo,7
+Cora,Grande,2,Casa com quintal pequeno,Medroso,8
+Thor,Grande,2,Casa com quintal grande,Brincalhão,9
+Mel,Grande,2,Casa com quintal grande,Dócil,10
+Luna,Grande,2,Casa com quintal grande,Sociável,11
+Bob,Grande,2,Casa com quintal grande,Agitado,12
+Rex,Grande,2,Casa com quintal grande,Protetor,1
+Aline,Grande,2,Casa com quintal grande,Calmo,2
+Pipoca,Grande,2,Casa com quintal grande,Medroso,3
+Billy,Grande,3,Apartamento,Brincalhão,4
+Bidu,Grande,3,Apartamento,Dócil,5
+Nina,Grande,3,Apartamento,Sociável,6
+Amora,Grande,3,Apartamento,Agitado,7
+Belinha,Grande,3,Apartamento,Protetor,8
+Toby,Grande,3,Apartamento,Calmo,9
+Max,Grande,3,Apartamento,Medroso,10
+Zeus,Grande,3,Casa com quintal pequeno,Brincalhão,11
+Pandora,Grande,3,Casa com quintal pequeno,Dócil,12
+Snoopy,Grande,3,Casa com quintal pequeno,Sociável,1
+Lola,Grande,3,Casa com quintal pequeno,Agitado,2
+Marley,Grande,3,Casa com quintal pequeno,Protetor,3
+Cacau,Grande,3,Casa com quintal pequeno,Calmo,4
+Simba,Grande,3,Casa com quintal pequeno,Medroso,5
+Fred,Grande,3,Casa com quintal grande,Brincalhão,6
+Pingo,Grande,3,Casa com quintal grande,Dócil,7
+Chico,Grande,3,Casa com quintal grande,Sociável,8
+Pitty,Grande,3,Casa com quintal grande,Agitado,9
+Frida,Grande,3,Casa com quintal grande,Protetor,10
+Luke,Grande,3,Casa com quintal grande,Calmo,11
+Maia,Grande,3,Casa com quintal grande,Medroso,12
+Teo,Grande,4,Apartamento,Brincalhão,1
+Paçoca,Grande,4,Apartamento,Dócil,2
+Nala,Grande,4,Apartamento,Sociável,3
+Akira,Grande,4,Apartamento,Agitado,4
+Cookie,Grande,4,Apartamento,Protetor,5
+Kira,Grande,4,Apartamento,Calmo,6
+Bartho,Grande,4,Apartamento,Medroso,7
+Suzi,Grande,4,Casa com quintal pequeno,Brincalhão,8
+Tutu,Grande,4,Casa com quintal pequeno,Dócil,9
+Jade,Grande,4,Casa com quintal pequeno,Sociável,10
+Milo,Grande,4,Casa com quintal pequeno,Agitado,11
+Cora,Grande,4,Casa com quintal pequeno,Protetor,12
+Thor,Grande,4,Casa com quintal pequeno,Calmo,1
+Mel,Grande,4,Casa com quintal pequeno,Medroso,2
+Luna,Grande,4,Casa com quintal grande,Brincalhão,3
+Bob,Grande,4,Casa com quintal grande,Dócil,4
+Rex,Grande,4,Casa com quintal grande,Sociável,5
+Aline,Grande,4,Casa com quintal grande,Agitado,6
+Pipoca,Grande,4,Casa com quintal grande,Protetor,7
+Billy,Grande,4,Casa com quintal grande,Calmo,8
+Bidu,Grande,4,Casa com quintal grande,Medroso,9
+Nina,Grande,5,Apartamento,Brincalhão,10
+Amora,Grande,5,Apartamento,Dócil,11
+Belinha,Grande,5,Apartamento,Sociável,12
+Toby,Grande,5,Apartamento,Agitado,1
+Max,Grande,5,Apartamento,Protetor,2
+Zeus,Grande,5,Apartamento,Calmo,3
+Pandora,Grande,5,Apartamento,Medroso,4
+Snoopy,Grande,5,Casa com quintal pequeno,Brincalhão,5
+Lola,Grande,5,Casa com quintal pequeno,Dócil,6
+Marley,Grande,5,Casa com quintal pequeno,Sociável,7
+Cacau,Grande,5,Casa com quintal pequeno,Agitado,8
+Simba,Grande,5,Casa com quintal pequeno,Protetor,9
+Fred,Grande,5,Casa com quintal pequeno,Calmo,10
+Pingo,Grande,5,Casa com quintal pequeno,Medroso,11
+Chico,Grande,5,Casa com quintal grande,Brincalhão,12
+Pitty,Grande,5,Casa com quintal grande,Dócil,1
+Frida,Grande,5,Casa com quintal grande,Sociável,2
+Luke,Grande,5,Casa com quintal grande,Agitado,3
+Maia,Grande,5,Casa com quintal grande,Protetor,4
+Teo,Grande,5,Casa com quintal grande,Calmo,5
+Paçoca,Grande,5,Casa com quintal grande,Medroso,6
+Nala,Pequeno,1,Apartamento,Brincalhão,7
+Akira,Pequeno,1,Apartamento,Dócil,8
+Cookie,Pequeno,1,Apartamento,Sociável,9
+Kira,Pequeno,1,Apartamento,Agitado,10
+Bartho,Pequeno,1,Apartamento,Protetor,11
+Suzi,Pequeno,1,Apartamento,Calmo,12
+Tutu,Pequeno,1,Apartamento,Medroso,1
+Jade,Pequeno,1,Casa com quintal pequeno,Brincalhão,2
+Milo,Pequeno,1,Casa com quintal pequeno,Dócil,3
+Cora,Pequeno,1,Casa com quintal pequeno,Sociável,4
+Thor,Pequeno,1,Casa com quintal pequeno,Agitado,5
+Mel,Pequeno,1,Casa com quintal pequeno,Protetor,6
+Luna,Pequeno,1,Casa com quintal pequeno,Calmo,7
+Bob,Pequeno,1,Casa com quintal pequeno,Medroso,8
+Rex,Pequeno,1,Casa com quintal grande,Brincalhão,9
+Aline,Pequeno,1,Casa com quintal grande,Dócil,10
+Pipoca,Pequeno,1,Casa com quintal grande,Sociável,11
+Billy,Pequeno,1,Casa com quintal grande,Agitado,12
+Bidu,Pequeno,1,Casa com quintal grande,Protetor,1
+Nina,Pequeno,1,Casa com quintal grande,Calmo,2
+Koda,Grande,1,Casa com quintal pequeno,Medroso,1
+Thor,Grande,1,Casa com quintal pequeno,Calmo,2
+Bob,Grande,1,Casa com quintal pequeno,Agitado,3
+Chico,Grande,1,Casa com quintal pequeno,Medroso,1
+Mel,Grande,1,Casa com quintal pequeno,Calmo,2
+Scooby,Grande,1,Casa com quintal pequeno,Agitado,3
+Apolo,Grande,1,Casa com quintal pequeno,Medroso,1
+Zeus,Pequeno,1,Apartamento,Brincalhão,2
+Fiona,Pequeno,1,Apartamento,Dócil,3
+Rex,Pequeno,1,Apartamento,Sociável,1
+Bartho,Pequeno,1,Apartamento,Agitado,2
+Mel,Pequeno,1,Apartamento,Protetor,3
+Pipoca,Pequeno,1,Apartamento,Calmo,1
+Scooby,Pequeno,1,Apartamento,Medroso,2
+Simba,Pequeno,1,Apartamento,Brincalhão,3
+Snoopy,Pequeno,1,Apartamento,Dócil,1
+Belinha,Pequeno,1,Apartamento,Sociável,2
+Billy,Pequeno,1,Apartamento,Agitado,3
+Zeus,Pequeno,1,Apartamento,Protetor,1
+Thor,Pequeno,1,Apartamento,Calmo,2
+Marley,Pequeno,1,Apartamento,Medroso,3
+Max,Pequeno,1,Apartamento,Brincalhão,1
+Chico,Pequeno,1,Apartamento,Dócil,2
+Mel,Pequeno,1,Apartamento,Sociável,3
+Scooby,Pequeno,1,Apartamento,Agitado,1
+Apolo,Pequeno,1,Apartamento,Protetor,2
+Simba,Pequeno,1,Apartamento,Calmo,3
+Zeus,Pequeno,1,Apartamento,Medroso,1
+Bob,Pequeno,1,Apartamento,Brincalhão,2
+Max,Pequeno,1,Apartamento,Dócil,3
+Marley,Pequeno,1,Apartamento,Sociável,1
+Zeus,Médio,1,Apartamento,Brincalhão,2
+Koda,Médio,1,Apartamento,Dócil,3
+Thor,Médio,1,Apartamento,Sociável,1
+Bob,Médio,1,Apartamento,Agitado,2
+Chico,Médio,1,Apartamento,Protetor,3
+Mel,Médio,1,Apartamento,Calmo,1
+Scooby,Médio,1,Apartamento,Medroso,2
+Apolo,Médio,1,Apartamento,Brincalhão,3
+Zeus,Médio,1,Apartamento,Dócil,1
+Fiona,Médio,1,Apartamento,Sociável,2
+Rex,Médio,1,Apartamento,Agitado,3
+Bartho,Médio,1,Apartamento,Protetor,1
+Mel,Médio,1,Apartamento,Calmo,2
+Pipoca,Médio,1,Apartamento,Medroso,3
+Scooby,Médio,1,Apartamento,Brincalhão,1
+Simba,Médio,1,Apartamento,Dócil,2
+Snoopy,Médio,1,Apartamento,Sociável,3
+Belinha,Médio,1,Apartamento,Agitado,1
+Billy,Médio,1,Apartamento,Protetor,2
+Zeus,Médio,1,Apartamento,Calmo,3
+Thor,Médio,1,Apartamento,Medroso,1
+Marley,Médio,1,Apartamento,Brincalhão,2
+Max,Médio,1,Apartamento,Dócil,3
+Chico,Médio,1,Apartamento,Sociável,1
+Mel,Médio,1,Apartamento,Agitado,2
+Scooby,Médio,1,Apartamento,Protetor,3
+Apolo,Médio,1,Apartamento,Calmo,1
+Simba,Médio,1,Apartamento,Medroso,2
+Zeus,Médio,1,Apartamento,Brincalhão,3
+Bob,Médio,1,Apartamento,Dócil,1
+Max,Médio,1,Apartamento,Sociável,2
+Marley,Médio,1,Apartamento,Agitado,3
+Zeus,Grande,1,Apartamento,Brincalhão,1
+Koda,Grande,1,Apartamento,Dócil,2
+Thor,Grande,1,Apartamento,Sociável,3
+Bob,Grande,1,Apartamento,Agitado,1
+Chico,Grande,1,Apartamento,Protetor,2
+Mel,Grande,1,Apartamento,Calmo,3
+Scooby,Grande,1,Apartamento,Medroso,1
+Apolo,Grande,1,Apartamento,Brincalhão,2
+Zeus,Grande,1,Apartamento,Dócil,3
+Fiona,Grande,1,Apartamento,Sociável,1
+Rex,Grande,1,Apartamento,Agitado,2
+Bartho,Grande,1,Apartamento,Protetor,3
+Mel,Grande,1,Apartamento,Calmo,1
+Pipoca,Grande,1,Apartamento,Medroso,2
+Scooby,Grande,1,Apartamento,Brincalhão,3
+Simba,Grande,1,Apartamento,Dócil,1
+Snoopy,Grande,1,Apartamento,Sociável,2
+Belinha,Grande,1,Apartamento,Agitado,3
+Billy,Grande,1,Apartamento,Protetor,1
+Zeus,Grande,1,Apartamento,Calmo,2
+Thor,Grande,1,Apartamento,Medroso,3
+Marley,Grande,1,Apartamento,Brincalhão,1
+Max,Grande,1,Apartamento,Dócil,2
+Chico,Grande,1,Apartamento,Sociável,3
+Mel,Grande,1,Apartamento,Agitado,1
+Scooby,Grande,1,Apartamento,Protetor,2
+Apolo,Grande,1,Apartamento,Calmo,3
+Simba,Grande,1,Apartamento,Medroso,1
+Zeus,Grande,1,Apartamento,Brincalhão,2
+Bob,Grande,1,Apartamento,Dócil,3
+Max,Grande,1,Apartamento,Sociável,1
+Marley,Grande,1,Apartamento,Agitado,2
+Zeus,Pequeno,1,Casa com quintal grande,Brincalhão,3
+Koda,Pequeno,1,Casa com quintal grande,Dócil,1
+Thor,Pequeno,1,Casa com quintal grande,Sociável,2
+Bob,Pequeno,1,Casa com quintal grande,Agitado,3
+Chico,Pequeno,1,Casa com quintal grande,Protetor,1
+Mel,Pequeno,1,Casa com quintal grande,Calmo,2
+Scooby,Pequeno,1,Casa com quintal grande,Medroso,3
+Apolo,Pequeno,1,Casa com quintal grande,Brincalhão,1
+Zeus,Pequeno,1,Casa com quintal grande,Dócil,2
+Fiona,Pequeno,1,Casa com quintal grande,Sociável,3
+Rex,Pequeno,1,Casa com quintal grande,Agitado,1
+Bartho,Pequeno,1,Casa com quintal grande,Protetor,2
+Mel,Pequeno,1,Casa com quintal grande,Calmo,3
+Pipoca,Pequeno,1,Casa com quintal grande,Medroso,1
+Scooby,Pequeno,1,Casa com quintal grande,Brincalhão,2
+Simba,Pequeno,1,Casa com quintal grande,Dócil,3
+Snoopy,Pequeno,1,Casa com quintal grande,Sociável,1
+Belinha,Pequeno,1,Casa com quintal grande,Agitado,2
+Billy,Pequeno,1,Casa com quintal grande,Protetor,3
+Zeus,Pequeno,1,Casa com quintal grande,Calmo,1
+Thor,Pequeno,1,Casa com quintal grande,Medroso,2
+Marley,Pequeno,1,Casa com quintal grande,Brincalhão,3
+Max,Pequeno,1,Casa com quintal grande,Dócil,1
+Chico,Pequeno,1,Casa com quintal grande,Sociável,2
+Mel,Pequeno,1,Casa com quintal grande,Agitado,3
+Scooby,Pequeno,1,Casa com quintal grande,Protetor,1
+Apolo,Pequeno,1,Casa com quintal grande,Calmo,2
+Simba,Pequeno,1,Casa com quintal grande,Medroso,3
+Zeus,Pequeno,1,Casa com quintal grande,Brincalhão,1
+Bob,Pequeno,1,Casa com quintal grande,Dócil,2
+Max,Pequeno,1,Casa com quintal grande,Sociável,3
+Marley,Pequeno,1,Casa com quintal grande,Agitado,1
+Zeus,Médio,1,Casa com quintal grande,Brincalhão,2
+Koda,Médio,1,Casa com quintal grande,Dócil,3
+Thor,Médio,1,Casa com quintal grande,Sociável,1
+Bob,Médio,1,Casa com quintal grande,Agitado,2
+Chico,Médio,1,Casa com quintal grande,Protetor,3
+Mel,Médio,1,Casa com quintal grande,Calmo,1
+Scooby,Médio,1,Casa com quintal grande,Medroso,2
+Apolo,Médio,1,Casa com quintal grande,Brincalhão,3
+Zeus,Médio,1,Casa com quintal grande,Dócil,1
+Fiona,Médio,1,Casa com quintal grande,Sociável,2
+Rex,Médio,1,Casa com quintal grande,Agitado,3
+Bartho,Médio,1,Casa com quintal grande,Protetor,1
+Mel,Médio,1,Casa com quintal grande,Calmo,2
+Pipoca,Médio,1,Casa com quintal grande,Medroso,3
+Scooby,Médio,1,Casa com quintal grande,Brincalhão,1
+Simba,Médio,1,Casa com quintal grande,Dócil,2
+Snoopy,Médio,1,Casa com quintal grande,Sociável,3
+Belinha,Médio,1,Casa com quintal grande,Agitado,1
+Billy,Médio,1,Casa com quintal grande,Protetor,2
+Zeus,Médio,1,Casa com quintal grande,Calmo,3
+Thor,Médio,1,Casa com quintal grande,Medroso,1
+Marley,Médio,1,Casa com quintal grande,Brincalhão,2
+Max,Médio,1,Casa com quintal grande,Dócil,3
+Chico,Médio,1,Casa com quintal grande,Sociável,1
+Mel,Médio,1,Casa com quintal grande,Agitado,2
+Scooby,Médio,1,Casa com quintal grande,Protetor,3
+Apolo,Médio,1,Casa com quintal grande,Calmo,1
+Simba,Médio,1,Casa com quintal grande,Medroso,2
+Zeus,Médio,1,Casa com quintal grande,Brincalhão,3
+Bob,Médio,1,Casa com quintal grande,Dócil,1
+Max,Médio,1,Casa com quintal grande,Sociável,2
+Marley,Médio,1,Casa com quintal grande,Agitado,3
+Zeus,Grande,1,Casa com quintal grande,Brincalhão,1
+Koda,Grande,1,Casa com quintal grande,Dócil,2
+Thor,Grande,1,Casa com quintal grande,Sociável,3
+Bob,Grande,1,Casa com quintal grande,Agitado,1
+Chico,Grande,1,Casa com quintal grande,Protetor,2
+Mel,Grande,1,Casa com quintal grande,Calmo,3
+Scooby,Grande,1,Casa com quintal grande,Medroso,1
+Apolo,Grande,1,Casa com quintal grande,Brincalhão,2
+Zeus,Grande,1,Casa com quintal grande,Dócil,3
+Fiona,Grande,1,Casa com quintal grande,Sociável,1
+Rex,Grande,1,Casa com quintal grande,Agitado,2
+Bartho,Grande,1,Casa com quintal grande,Protetor,3
+Mel,Grande,1,Casa com quintal grande,Calmo,1
+Pipoca,Grande,1,Casa com quintal grande,Medroso,2
+Scooby,Grande,1,Casa com quintal grande,Brincalhão,3
+Simba,Grande,1,Casa com quintal grande,Dócil,1
+Snoopy,Grande,1,Casa com quintal grande,Sociável,2
+Belinha,Grande,1,Casa com quintal grande,Agitado,3
+Billy,Grande,1,Casa com quintal grande,Protetor,1
+Zeus,Grande,1,Casa com quintal grande,Calmo,2
+Thor,Grande,1,Casa com quintal grande,Medroso,3
+Marley,Grande,1,Casa com quintal grande,Brincalhão,1
+Max,Grande,1,Casa com quintal grande,Dócil,2
+Chico,Grande,1,Casa com quintal grande,Sociável,3
+Mel,Grande,1,Casa com quintal grande,Agitado,1
+Scooby,Grande,1,Casa com quintal grande,Protetor,2
+Apolo,Grande,1,Casa com quintal grande,Calmo,3
+Simba,Grande,1,Casa com quintal grande,Medroso,1
+Zeus,Grande,1,Casa com quintal grande,Brincalhão,2
+Bob,Grande,1,Casa com quintal grande,Dócil,3
+Max,Grande,1,Casa com quintal grande,Sociável,1
+Marley,Grande,1,Casa com quintal grande,Agitado,2
+Zeus,Pequeno,4,Apartamento,Brincalhão,3
+Koda,Pequeno,4,Apartamento,Dócil,1
+Thor,Pequeno,4,Apartamento,Sociável,2
+Bob,Pequeno,4,Apartamento,Agitado,3
+Chico,Pequeno,4,Apartamento,Protetor,1
+Mel,Pequeno,4,Apartamento,Calmo,2
+Scooby,Pequeno,4,Apartamento,Medroso,3
+Apolo,Pequeno,4,Apartamento,Brincalhão,1
+Zeus,Pequeno,4,Apartamento,Dócil,2
+Fiona,Pequeno,4,Apartamento,Sociável,3
+Rex,Pequeno,4,Apartamento,Agitado,1
+Bartho,Pequeno,4,Apartamento,Protetor,2
+Mel,Pequeno,4,Apartamento,Calmo,3
+Pipoca,Pequeno,4,Apartamento,Medroso,1
+Scooby,Pequeno,4,Apartamento,Brincalhão,2
+Simba,Pequeno,4,Apartamento,Dócil,3
+Snoopy,Pequeno,4,Apartamento,Sociável,1
+Belinha,Pequeno,4,Apartamento,Agitado,2
+Billy,Pequeno,4,Apartamento,Protetor,3
+Zeus,Pequeno,4,Apartamento,Calmo,1
+Thor,Pequeno,4,Apartamento,Medroso,2
+Marley,Pequeno,4,Apartamento,Brincalhão,3
+Max,Pequeno,4,Apartamento,Dócil,1
+Chico,Pequeno,4,Apartamento,Sociável,2
+Mel,Pequeno,4,Apartamento,Agitado,3
+Scooby,Pequeno,4,Apartamento,Protetor,1
+Apolo,Pequeno,4,Apartamento,Calmo,2
+Simba,Pequeno,4,Apartamento,Medroso,3
+Zeus,Pequeno,4,Apartamento,Brincalhão,1
+Bob,Pequeno,4,Apartamento,Dócil,2
+Max,Pequeno,4,Apartamento,Sociável,3
+Marley,Pequeno,4,Apartamento,Agitado,1
+Zeus,Médio,4,Apartamento,Brincalhão,2
+Koda,Médio,4,Apartamento,Dócil,3
+Thor,Médio,4,Apartamento,Sociável,1
+Bob,Médio,4,Apartamento,Agitado,2
+Chico,Médio,4,Apartamento,Protetor,3
+Mel,Médio,4,Apartamento,Calmo,1
+Scooby,Médio,4,Apartamento,Medroso,2
+Apolo,Médio,4,Apartamento,Brincalhão,3
+Zeus,Médio,4,Apartamento,Dócil,1
+Fiona,Médio,4,Apartamento,Sociável,2
+Rex,Médio,4,Apartamento,Agitado,3
+Bartho,Médio,4,Apartamento,Protetor,1
+Mel,Médio,4,Apartamento,Calmo,2
+Pipoca,Médio,4,Apartamento,Medroso,3
+Scooby,Médio,4,Apartamento,Brincalhão,1
+Simba,Médio,4,Apartamento,Dócil,2
+Snoopy,Médio,4,Apartamento,Sociável,3
+Belinha,Médio,4,Apartamento,Agitado,1
+Billy,Médio,4,Apartamento,Protetor,2
+Zeus,Médio,4,Apartamento,Calmo,3
+Thor,Médio,4,Apartamento,Medroso,1
+Marley,Médio,4,Apartamento,Brincalhão,2
+Max,Médio,4,Apartamento,Dócil,3
+Chico,Médio,4,Apartamento,Sociável,1
+Mel,Médio,4,Apartamento,Agitado,2
+Scooby,Médio,4,Apartamento,Protetor,3
+Apolo,Médio,4,Apartamento,Calmo,1
+Simba,Médio,4,Apartamento,Medroso,2
+Zeus,Médio,4,Apartamento,Brincalhão,3
+Bob,Médio,4,Apartamento,Dócil,1
+Max,Médio,4,Apartamento,Sociável,2
+Marley,Médio,4,Apartamento,Agitado,3
+Zeus,Grande,4,Apartamento,Brincalhão,1
+Koda,Grande,4,Apartamento,Dócil,2
+Thor,Grande,4,Apartamento,Sociável,3
+Bob,Grande,4,Apartamento,Agitado,1
+Chico,Grande,4,Apartamento,Protetor,2
+Mel,Grande,4,Apartamento,Calmo,3
+Scooby,Grande,4,Apartamento,Medroso,1
+Apolo,Grande,4,Apartamento,Brincalhão,2
+Zeus,Grande,4,Apartamento,Dócil,3
+Fiona,Grande,4,Apartamento,Sociável,1
+Rex,Grande,4,Apartamento,Agitado,2
+Bartho,Grande,4,Apartamento,Protetor,3
+Mel,Grande,4,Apartamento,Calmo,1
+Pipoca,Grande,4,Apartamento,Medroso,2
+Scooby,Grande,4,Apartamento,Brincalhão,3
+Simba,Grande,4,Apartamento,Dócil,1
+Snoopy,Grande,4,Apartamento,Sociável,2
+Belinha,Grande,4,Apartamento,Agitado,3
+Billy,Grande,4,Apartamento,Protetor,1
+Zeus,Grande,4,Apartamento,Calmo,2
+Thor,Grande,4,Apartamento,Medroso,3
+Marley,Grande,4,Apartamento,Brincalhão,1
+Max,Grande,4,Apartamento,Dócil,2
+Chico,Grande,4,Apartamento,Sociável,3
+Mel,Grande,4,Apartamento,Agitado,1
+Scooby,Grande,4,Apartamento,Protetor,2
+Apolo,Grande,4,Apartamento,Calmo,3
+Simba,Grande,4,Apartamento,Medroso,1
+Zeus,Grande,4,Apartamento,Brincalhão,2
+Bob,Grande,4,Apartamento,Dócil,3
+Max,Grande,4,Apartamento,Sociável,1
+Marley,Grande,4,Apartamento,Agitado,2
+Zeus,Pequeno,5,Casa com quintal pequeno,Brincalhão,3
+Koda,Pequeno,5,Casa com quintal pequeno,Dócil,1
+Thor,Pequeno,5,Casa com quintal pequeno,Sociável,2
+Bob,Pequeno,5,Casa com quintal pequeno,Agitado,3
+Chico,Pequeno,5,Casa com quintal pequeno,Protetor,1
+Mel,Pequeno,5,Casa com quintal pequeno,Calmo,2
+Scooby,Pequeno,5,Casa com quintal pequeno,Medroso,3
+Apolo,Pequeno,5,Casa com quintal pequeno,Brincalhão,1
+Zeus,Pequeno,5,Casa com quintal pequeno,Dócil,2
+Fiona,Pequeno,5,Casa com quintal pequeno,Sociável,3
+Rex,Pequeno,5,Casa com quintal pequeno,Agitado,1
+Bartho,Pequeno,5,Casa com quintal pequeno,Protetor,2
+Mel,Pequeno,5,Casa com quintal pequeno,Calmo,3
+Pipoca,Pequeno,5,Casa com quintal pequeno,Medroso,1
+Scooby,Pequeno,5,Casa com quintal pequeno,Brincalhão,2
+Simba,Pequeno,5,Casa com quintal pequeno,Dócil,3
+Snoopy,Pequeno,5,Casa com quintal pequeno,Sociável,1
+Belinha,Pequeno,5,Casa com quintal pequeno,Agitado,2
+Billy,Pequeno,5,Casa com quintal pequeno,Protetor,3
+Zeus,Pequeno,5,Casa com quintal pequeno,Calmo,1
+Thor,Pequeno,5,Casa com quintal pequeno,Medroso,2
+Marley,Pequeno,5,Casa com quintal pequeno,Brincalhão,3
+Max,Pequeno,5,Casa com quintal pequeno,Dócil,1
+Chico,Pequeno,5,Casa com quintal pequeno,Sociável,2
+Mel,Pequeno,5,Casa com quintal pequeno,Agitado,3
+Scooby,Pequeno,5,Casa com quintal pequeno,Protetor,1
+Apolo,Pequeno,5,Casa com quintal pequeno,Calmo,2
+Simba,Pequeno,5,Casa com quintal pequeno,Medroso,3
+Zeus,Pequeno,5,Casa com quintal pequeno,Brincalhão,1
+Bob,Pequeno,5,Casa com quintal pequeno,Dócil,2
+Max,Pequeno,5,Casa com quintal pequeno,Sociável,3
+Marley,Pequeno,5,Casa com quintal pequeno,Agitado,1
+Zeus,Médio,5,Casa com quintal pequeno,Brincalhão,2
+Koda,Médio,5,Casa com quintal pequeno,Dócil,3
+Thor,Médio,5,Casa com quintal pequeno,Sociável,1
+Bob,Médio,5,Casa com quintal pequeno,Agitado,2
+Chico,Médio,5,Casa com quintal pequeno,Protetor,3
+Mel,Médio,5,Casa com quintal pequeno,Calmo,1
+Scooby,Médio,5,Casa com quintal pequeno,Medroso,2
+Apolo,Médio,5,Casa com quintal pequeno,Brincalhão,3
+Zeus,Médio,5,Casa com quintal pequeno,Dócil,1
+Fiona,Médio,5,Casa com quintal pequeno,Sociável,2
+Rex,Médio,5,Casa com quintal pequeno,Agitado,3
+Bartho,Médio,5,Casa com quintal pequeno,Protetor,1
+Mel,Médio,5,Casa com quintal pequeno,Calmo,2
+Pipoca,Médio,5,Casa com quintal pequeno,Medroso,3
+Scooby,Médio,5,Casa com quintal pequeno,Brincalhão,1
+Simba,Médio,5,Casa com quintal pequeno,Dócil,2
+Snoopy,Médio,5,Casa com quintal pequeno,Sociável,3
+Belinha,Médio,5,Casa com quintal pequeno,Agitado,1
+Billy,Médio,5,Casa com quintal pequeno,Protetor,2
+Zeus,Médio,5,Casa com quintal pequeno,Calmo,3
+Thor,Médio,5,Casa com quintal pequeno,Medroso,1
+Marley,Médio,5,Casa com quintal pequeno,Brincalhão,2
+Max,Médio,5,Casa com quintal pequeno,Dócil,3
+Chico,Médio,5,Casa com quintal pequeno,Sociável,1
+Mel,Médio,5,Casa com quintal pequeno,Agitado,2
+Scooby,Médio,5,Casa com quintal pequeno,Protetor,3
+Apolo,Médio,5,Casa com quintal pequeno,Calmo,1
+Simba,Médio,5,Casa com quintal pequeno,Medroso,2
+Zeus,Médio,5,Casa com quintal pequeno,Brincalhão,3
+Bob,Médio,5,Casa com quintal pequeno,Dócil,1
+Max,Médio,5,Casa com quintal pequeno,Sociável,2
+Marley,Médio,5,Casa com quintal pequeno,Agitado,3
+Zeus,Grande,5,Casa com quintal pequeno,Brincalhão,1
+Koda,Grande,5,Casa com quintal pequeno,Dócil,2
+Thor,Grande,5,Casa com quintal pequeno,Sociável,3
+Bob,Grande,5,Casa com quintal pequeno,Agitado,1
+Chico,Grande,5,Casa com quintal pequeno,Protetor,2
+Mel,Grande,5,Casa com quintal pequeno,Calmo,3
+Scooby,Grande,5,Casa com quintal pequeno,Medroso,1
+Apolo,Grande,5,Casa com quintal pequeno,Brincalhão,2
+Zeus,Grande,5,Casa com quintal pequeno,Dócil,3
+Fiona,Grande,5,Casa com quintal pequeno,Sociável,1
+Rex,Grande,5,Casa com quintal pequeno,Agitado,2
+Bartho,Grande,5,Casa com quintal pequeno,Protetor,3
+Mel,Grande,5,Casa com quintal pequeno,Calmo,1
+Pipoca,Grande,5,Casa com quintal pequeno,Medroso,2
+Scooby,Grande,5,Casa com quintal pequeno,Brincalhão,3
+Simba,Grande,5,Casa com quintal pequeno,Dócil,1
+Snoopy,Grande,5,Casa com quintal pequeno,Sociável,2
+Belinha,Grande,5,Casa com quintal pequeno,Agitado,3
+Billy,Grande,5,Casa com quintal pequeno,Protetor,1
+Zeus,Grande,5,Casa com quintal pequeno,Calmo,2
+Thor,Grande,5,Casa com quintal pequeno,Medroso,3
+Marley,Grande,5,Casa com quintal pequeno,Brincalhão,1
+Max,Grande,5,Casa com quintal pequeno,Dócil,2
+Chico,Grande,5,Casa com quintal pequeno,Sociável,3
+Mel,Grande,5,Casa com quintal pequeno,Agitado,1
+Scooby,Grande,5,Casa com quintal pequeno,Protetor,2
+Apolo,Grande,5,Casa com quintal pequeno,Calmo,3
+Simba,Grande,5,Casa com quintal pequeno,Medroso,1
+Zeus,Grande,5,Casa com quintal pequeno,Brincalhão,2
+Bob,Grande,5,Casa com quintal pequeno,Dócil,3
+Max,Grande,5,Casa com quintal pequeno,Sociável,1
+Marley,Grande,5,Casa com quintal pequeno,Agitado,2
+Zeus,Pequeno,5,Apartamento,Brincalhão,3
+Koda,Pequeno,5,Apartamento,Dócil,1
+Thor,Pequeno,5,Apartamento,Sociável,2
+Bob,Pequeno,5,Apartamento,Agitado,3
+Chico,Pequeno,5,Apartamento,Protetor,1
+Mel,Pequeno,5,Apartamento,Calmo,2
+Scooby,Pequeno,5,Apartamento,Medroso,3
+Apolo,Pequeno,5,Apartamento,Brincalhão,1
+Zeus,Pequeno,5,Apartamento,Dócil,2
+Fiona,Pequeno,5,Apartamento,Sociável,3
+Rex,Pequeno,5,Apartamento,Agitado,1
+Bartho,Pequeno,5,Apartamento,Protetor,2
+Mel,Pequeno,5,Apartamento,Calmo,3
+Pipoca,Pequeno,5,Apartamento,Medroso,1
+Scooby,Pequeno,5,Apartamento,Brincalhão,2
+Simba,Pequeno,5,Apartamento,Dócil,3
+Snoopy,Pequeno,5,Apartamento,Sociável,1
+Belinha,Pequeno,5,Apartamento,Agitado,2
+Billy,Pequeno,5,Apartamento,Protetor,3
+Zeus,Pequeno,5,Apartamento,Calmo,1
+Thor,Pequeno,5,Apartamento,Medroso,2
+Marley,Pequeno,5,Apartamento,Brincalhão,3
+Max,Pequeno,5,Apartamento,Dócil,1
+Chico,Pequeno,5,Apartamento,Sociável,2
+Mel,Pequeno,5,Apartamento,Agitado,3
+Scooby,Pequeno,5,Apartamento,Protetor,1
+Apolo,Pequeno,5,Apartamento,Calmo,2
+Simba,Pequeno,5,Apartamento,Medroso,3
+Zeus,Pequeno,5,Apartamento,Brincalhão,1
+Bob,Pequeno,5,Apartamento,Dócil,2
+Max,Pequeno,5,Apartamento,Sociável,3
+Marley,Pequeno,5,Apartamento,Agitado,1
+Zeus,Médio,5,Apartamento,Brincalhão,2
+Koda,Médio,5,Apartamento,Dócil,3
+Thor,Médio,5,Apartamento,Sociável,1
+Bob,Médio,5,Apartamento,Agitado,2
+Chico,Médio,5,Apartamento,Protetor,3
+Mel,Médio,5,Apartamento,Calmo,1
+Scooby,Médio,5,Apartamento,Medroso,2
+Apolo,Médio,5,Apartamento,Brincalhão,3
+Zeus,Médio,5,Apartamento,Dócil,1
+Fiona,Médio,5,Apartamento,Sociável,2
+Rex,Médio,5,Apartamento,Agitado,3
+Bartho,Médio,5,Apartamento,Protetor,1
+Mel,Médio,5,Apartamento,Calmo,2
+Pipoca,Médio,5,Apartamento,Medroso,3
+Scooby,Médio,5,Apartamento,Brincalhão,1
+Simba,Médio,5,Apartamento,Dócil,2
+Snoopy,Médio,5,Apartamento,Sociável,3
+Belinha,Médio,5,Apartamento,Agitado,1
+Billy,Médio,5,Apartamento,Protetor,2
+Zeus,Médio,5,Apartamento,Calmo,3
+Thor,Médio,5,Apartamento,Medroso,1
+Marley,Médio,5,Apartamento,Brincalhão,2
+Max,Médio,5,Apartamento,Dócil,3
+Chico,Médio,5,Apartamento,Sociável,1
+Mel,Médio,5,Apartamento,Agitado,2
+Scooby,Médio,5,Apartamento,Protetor,3
+Apolo,Médio,5,Apartamento,Calmo,1
+Simba,Médio,5,Apartamento,Medroso,2
+Zeus,Médio,5,Apartamento,Brincalhão,3
+Bob,Médio,5,Apartamento,Dócil,1
+Max,Médio,5,Apartamento,Sociável,2
+Marley,Médio,5,Apartamento,Agitado,3
+Zeus,Grande,5,Apartamento,Brincalhão,1
+Koda,Grande,5,Apartamento,Dócil,2
+Thor,Grande,5,Apartamento,Sociável,3
+Bob,Grande,5,Apartamento,Agitado,1
+Chico,Grande,5,Apartamento,Protetor,2
+Mel,Grande,5,Apartamento,Calmo,3
+Scooby,Grande,5,Apartamento,Medroso,1
+Apolo,Grande,5,Apartamento,Brincalhão,2
+Zeus,Grande,5,Apartamento,Dócil,3
+Fiona,Grande,5,Apartamento,Sociável,1
+Rex,Grande,5,Apartamento,Agitado,2
+Bartho,Grande,5,Apartamento,Protetor,3
+Mel,Grande,5,Apartamento,Calmo,1
+Pipoca,Grande,5,Apartamento,Medroso,2
+Scooby,Grande,5,Apartamento,Brincalhão,3
+Simba,Grande,5,Apartamento,Dócil,1
+Snoopy,Grande,5,Apartamento,Sociável,2
+Belinha,Grande,5,Apartamento,Agitado,3
+Billy,Grande,5,Apartamento,Protetor,1
+Zeus,Grande,5,Apartamento,Calmo,2
+Thor,Grande,5,Apartamento,Medroso,3
+Marley,Grande,5,Apartamento,Brincalhão,1
+Max,Grande,5,Apartamento,Dócil,2
+Chico,Grande,5,Apartamento,Sociável,3
+Mel,Grande,5,Apartamento,Agitado,1
+Scooby,Grande,5,Apartamento,Protetor,2
+Apolo,Grande,5,Apartamento,Calmo,3
+Simba,Grande,5,Apartamento,Medroso,1
+Zeus,Grande,5,Apartamento,Brincalhão,2
+Bob,Grande,5,Apartamento,Dócil,3
+Max,Grande,5,Apartamento,Sociável,1
+Marley,Grande,5,Apartamento,Agitado,2
+Zeus,Pequeno,5,Casa com quintal grande,Brincalhão,3
+Koda,Pequeno,5,Casa com quintal grande,Dócil,1
+Thor,Pequeno,5,Casa com quintal grande,Sociável,2
+Bob,Pequeno,5,Casa com quintal grande,Agitado,3
+Chico,Pequeno,5,Casa com quintal grande,Protetor,1
+Mel,Pequeno,5,Casa com quintal grande,Calmo,2
+Scooby,Pequeno,5,Casa com quintal grande,Medroso,3
+Apolo,Pequeno,5,Casa com quintal grande,Brincalhão,1
+Zeus,Pequeno,5,Casa com quintal grande,Dócil,2
+Fiona,Pequeno,5,Casa com quintal grande,Sociável,3
+Rex,Pequeno,5,Casa com quintal grande,Agitado,1
+Bartho,Pequeno,5,Casa com quintal grande,Protetor,2
+Mel,Pequeno,5,Casa com quintal grande,Calmo,3
+Pipoca,Pequeno,5,Casa com quintal grande,Medroso,1
+Scooby,Pequeno,5,Casa com quintal grande,Brincalhão,2
+Simba,Pequeno,5,Casa com quintal grande,Dócil,3
+Snoopy,Pequeno,5,Casa com quintal grande,Sociável,1
+Belinha,Pequeno,5,Casa com quintal grande,Agitado,2
+Billy,Pequeno,5,Casa com quintal grande,Protetor,3
+Zeus,Pequeno,5,Casa com quintal grande,Calmo,1
+Thor,Pequeno,5,Casa com quintal grande,Medroso,2
+Marley,Pequeno,5,Casa com quintal grande,Brincalhão,3
+Max,Pequeno,5,Casa com quintal grande,Dócil,1
+Chico,Pequeno,5,Casa com quintal grande,Sociável,2
+Mel,Pequeno,5,Casa com quintal grande,Agitado,3
+Scooby,Pequeno,5,Casa com quintal grande,Protetor,1
+Apolo,Pequeno,5,Casa com quintal grande,Calmo,2
+Simba,Pequeno,5,Casa com quintal grande,Medroso,3
+Zeus,Pequeno,5,Casa com quintal grande,Brincalhão,1
+Bob,Pequeno,5,Casa com quintal grande,Dócil,2
+Max,Pequeno,5,Casa com quintal grande,Sociável,3
+Marley,Pequeno,5,Casa com quintal grande,Agitado,1
+Zeus,Médio,5,Casa com quintal grande,Brincalhão,2
+Koda,Médio,5,Casa com quintal grande,Dócil,3
+Thor,Médio,5,Casa com quintal grande,Sociável,1
+Bob,Médio,5,Casa com quintal grande,Agitado,2
+Chico,Médio,5,Casa com quintal grande,Protetor,3
+Mel,Médio,5,Casa com quintal grande,Calmo,1
+Scooby,Médio,5,Casa com quintal grande,Medroso,2
+Apolo,Médio,5,Casa com quintal grande,Brincalhão,3
+Zeus,Médio,5,Casa com quintal grande,Dócil,1
+Fiona,Médio,5,Casa com quintal grande,Sociável,2
+Rex,Médio,5,Casa com quintal grande,Agitado,3
+Bartho,Médio,5,Casa com quintal grande,Protetor,1
+Mel,Médio,5,Casa com quintal grande,Calmo,2
+Pipoca,Médio,5,Casa com quintal grande,Medroso,3
+Scooby,Médio,5,Casa com quintal grande,Brincalhão,1
+Simba,Médio,5,Casa com quintal grande,Dócil,2
+Snoopy,Médio,5,Casa com quintal grande,Sociável,3
+Belinha,Médio,5,Casa com quintal grande,Agitado,1
+Billy,Médio,5,Casa com quintal grande,Protetor,2
+Zeus,Médio,5,Casa com quintal grande,Calmo,3
+Thor,Médio,5,Casa com quintal grande,Medroso,1
+Marley,Médio,5,Casa com quintal grande,Brincalhão,2
+Max,Médio,5,Casa com quintal grande,Dócil,3
+Chico,Médio,5,Casa com quintal grande,Sociável,1
+Mel,Médio,5,Casa com quintal grande,Agitado,2
+Scooby,Médio,5,Casa com quintal grande,Protetor,3
+Apolo,Médio,5,Casa com quintal grande,Calmo,1
+Simba,Médio,5,Casa com quintal grande,Medroso,2
+Zeus,Médio,5,Casa com quintal grande,Brincalhão,3
+Bob,Médio,5,Casa com quintal grande,Dócil,1
+Max,Médio,5,Casa com quintal grande,Sociável,2
+Marley,Médio,5,Casa com quintal grande,Agitado,3
+Zeus,Grande,5,Casa com quintal grande,Brincalhão,1
+Koda,Grande,5,Casa com quintal grande,Dócil,2
+Thor,Grande,5,Casa com quintal grande,Sociável,3
+Bob,Grande,5,Casa com quintal grande,Agitado,1
+Chico,Grande,5,Casa com quintal grande,Protetor,2
+Mel,Grande,5,Casa com quintal grande,Calmo,3
+Scooby,Grande,5,Casa com quintal grande,Medroso,1
+Apolo,Grande,5,Casa com quintal grande,Brincalhão,2
+Zeus,Grande,5,Casa com quintal grande,Dócil,3
+Fiona,Grande,5,Casa com quintal grande,Sociável,1
+Rex,Grande,5,Casa com quintal grande,Agitado,2
+Bartho,Grande,5,Casa com quintal grande,Protetor,3
+Mel,Grande,5,Casa com quintal grande,Calmo,1
+Pipoca,Grande,5,Casa com quintal grande,Medroso,2
+Scooby,Grande,5,Casa com quintal grande,Brincalhão,3
+Simba,Grande,5,Casa com quintal grande,Dócil,1
+Snoopy,Grande,5,Casa com quintal grande,Sociável,2
+Belinha,Grande,5,Casa com quintal grande,Agitado,3
+Billy,Grande,5,Casa com quintal grande,Protetor,1
+Zeus,Grande,5,Casa com quintal grande,Calmo,2
+Thor,Grande,5,Casa com quintal grande,Medroso,3
+Marley,Grande,5,Casa com quintal grande,Brincalhão,1
+Max,Grande,5,Casa com quintal grande,Dócil,2
+Chico,Grande,5,Casa com quintal grande,Sociável,3
+Mel,Grande,5,Casa com quintal grande,Agitado,1
+Scooby,Grande,5,Casa com quintal grande,Protetor,2
+Apolo,Grande,5,Casa com quintal grande,Calmo,3
+Simba,Grande,5,Casa com quintal grande,Medroso,1
+Zeus,Grande,5,Casa com quintal grande,Brincalhão,2
+Bob,Grande,5,Casa com quintal grande,Dócil,3
+Max,Grande,5,Casa com quintal grande,Sociável,1
+Marley,Grande,5,Casa com quintal grande,Agitado,2

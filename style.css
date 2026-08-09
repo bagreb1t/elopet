@@ -1,0 +1,262 @@
+/* ==========================================================================
+   ELOPET - Design Identity & Components
+   Paleta: Laranja #FF9F1C, Creme #FDF6E3, Marrom #3F2A1E
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Plus+Jakarta+Sans:wght@400;500;600;750&display=swap');
+:root {
+    --orange: #FF9F1C;
+    --pink: #FF9A8B;
+    --blue: #A8DADC;
+    --cream: #FDF6E3;
+    --beige: #E8D5B7;
+    --dark-brown: #3F2A1E;
+    --light-brown: #5C4033;
+    --font-titulo: 'Fraunces', Georgia, serif;
+    --font-texto: 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+
+/* --- Base Typography & Variables --- */
+body {
+    font-family: var(--font-texto);
+    background-color: var(--cream);
+    color: var(--dark-brown);
+}
+
+.logo-font {
+    font-family: var(--font-titulo);
+    font-weight: 700;
+    letter-spacing: -1px;
+}
+
+.section-title {
+    font-family: var(--font-titulo);
+    text-align: center;
+    font-size: 3rem; 
+    font-weight: bold; 
+    letter-spacing: -0.01em; /* Fontes modernas precisam de menos esmagamento */
+    color: var(--dark-brown);
+}
+
+/* --- Navigation --- */
+.nav-pill {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    font-weight: 600;
+}
+
+.nav-pill:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+/* --- Form Filters --- */
+.filter-card {
+    transition: all 0.3s cubic-bezier(0.4, 0.0, 0.2, 1);
+    border: 1px solid rgba(255, 159, 28, 0.15);
+}
+
+.filter-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+    border-color: rgba(255, 159, 28, 0.3);
+}
+
+.modern-select {
+    transition: all 0.2s ease;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%235C4033'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'/%3E%3C/svg%3E");
+    background-position: right 1rem center;
+    background-repeat: no-repeat;
+    background-size: 1em;
+}
+
+.modern-select:focus {
+    border-color: var(--orange);
+    box-shadow: 0 0 0 4px rgba(255, 159, 28, 0.15);
+    outline: none;
+}
+
+/* Botões interativos */
+.match-btn {
+    background: linear-gradient(135deg, #FF9F1C 0%, #FF8C00 100%);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 15px 25px -8px rgba(255, 159, 28, 0.4);
+    position: relative;
+    overflow: hidden;
+}
+
+.match-btn::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -100%;
+    width: 50%;
+    height: 200%;
+    background: linear-gradient(120deg, transparent, rgba(255,255,255,0.3), transparent);
+    transition: all 0.6s;
+}
+
+.match-btn:hover::after { left: 250%; }
+
+.match-btn:hover {
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 0 25px 35px -10px rgba(255, 159, 28, 0.5);
+}
+
+.btn-adotar {
+    border: none;
+    border-radius: 14px;
+    padding: 14px 18px;
+    color: white;
+    font-weight: 700;
+    font-size: 1rem;
+    cursor: pointer;
+    width: 100%;
+    margin-top: auto;
+    background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%);
+    transition: all 0.3s ease;
+    box-shadow: 0 8px 15px -3px rgba(255, 107, 53, 0.3);
+}
+
+.btn-adotar:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 15px 25px -5px rgba(255, 107, 53, 0.4);
+}
+
+/* --- Dynamic Pet Search Results --- */
+#resultados {
+    width: min(1200px, 92%);
+    margin: 32px auto 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px;
+    align-items: stretch;
+}
+
+.pet-card {
+    background: #fffaf2;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 12px 28px rgba(0,0,0,.08);
+    border: 1px solid rgba(255,159,28,.15);
+    display: flex;
+    flex-direction: column;
+    transition: all 0.4s cubic-bezier(0.4, 0.0, 0.2, 1);
+    animation: fadeInUp 0.5s ease forwards;
+}
+
+.pet-card:hover {
+    transform: translateY(-10px) scale(1.01);
+    box-shadow: 0 30px 60px -15px rgba(0,0,0,0.25);
+}
+
+.card-img {
+    width: 100%;
+    height: 420px;
+    object-fit: contain;
+    object-position: center;
+    background: #fff7eb;
+    padding: 20px;
+}
+
+.card-content {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    flex: 1;
+}
+
+.card-content h3 {
+    margin: 0 0 10px;
+    font-size: 1.35rem;
+    color: var(--light-brown);
+    font-family: 'Playfair Display', Georgia, serif;
+}
+
+.card-content p {
+    margin: 6px 0;
+    color: var(--light-brown);
+    line-height: 1.45;
+    word-break: break-word;
+}
+
+/* --- UI State Indicators --- */
+.metric-badge {
+    background: #FFF8F0;
+    color: var(--light-brown);
+    font-size: 0.75rem;
+    padding: 3px 12px;
+    border-radius: 9999px;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.msg {
+    grid-column: 1 / -1;
+    background: #fffaf2;
+    border: 1px solid rgba(255, 159, 28, 0.15);
+    padding: 18px;
+    border-radius: 16px;
+    text-align: center;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.06);
+}
+
+.loading-spinner {
+    border: 4px solid rgba(255, 159, 28, 0.2);
+    border-top: 4px solid var(--orange);
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    animation: spin 1s linear infinite;
+}
+
+/* Animação e mídia responsiva--- */
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@keyframes gentleBob {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-6px); }
+}
+
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.header-dog { animation: gentleBob 3.5s ease-in-out infinite; }
+
+@media (max-width: 768px) {
+  /* Substitua pelo nome da sua classe ou tag do container principal */
+  .hero-container { 
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  /* Também é altamente recomendado diminuir um pouquinho o font-size no mobile 
+     para que palavras longas como "responsável" não quebrem de forma estranha */
+  .hero-title {
+    font-size: 2.2rem; /* Ajuste o valor conforme seu projeto */
+    line-height: 1.2;
+  }
+}
+
+@media (max-width: 768px) {
+  /* O container interno do card branco que junta as patinhas e o texto */
+  .card-header-container {
+    display: flex;
+    flex-direction: column; /* Coloca as patinhas em cima e o texto embaixo */
+    align-items: center;    /* Centraliza ambos horizontalmente */
+    text-align: center;     /* Garante o texto centralizado */
+    gap: 10px;              /* Dá um espacinho entre a patinha e o texto */
+    padding: 0 15px;        /* Evita que o texto cole na borda interna do card */
+  }
+
+  .card-title {
+    font-size: 1.6rem; /* Diminuir um pouquinho para o texto fluir melhor */
+    width: 100%;       /* Ocupa a largura total interna disponível */
+  }
+}

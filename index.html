@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EloPet • Adoção Responsável</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- HEADER -->
+   <header class="bg-[#FF9F1C] sticky top-0 z-50 px-8 py-4">
+    <div class="max-w-screen-xl mx-auto flex items-center justify-between">
+        <!-- Logo Unificada: Ícone do cão + Texto -->
+        <div class="flex items-center gap-x-3">
+    <!-- Trocado de <img> para <span> e controlado pelo text-5xl -->
+    <span class="text-5xl select-none">🐶</span>
+    <span class="logo-font text-3xl font-bold tracking-tighter text-white">EloPet</span>
+</div>
+
+       
+       <!-- Navigation focado e com termo expandido -->
+<nav class="hidden md:flex items-center gap-x-3">
+    <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" 
+            class="nav-pill px-7 py-3 text-sm font-bold rounded-3xl bg-white text-[#FF9F1C] shadow-sm hover:bg-[#FFF8F0] transition-all">
+        Início
+    </button>
+    
+    <button onclick="document.getElementById('matching-section').scrollIntoView({ behavior: 'smooth' })" 
+            class="nav-pill px-7 py-3 text-sm font-semibold rounded-3xl bg-[#FFF0DB] text-[#3F2A1E] hover:bg-[#FFE5C4] transition-all">
+        Adotar
+    </button>
+    
+    
+    <button onclick="document.getElementById('parcerias-section').scrollIntoView({ behavior: 'smooth' })" 
+            class="nav-pill px-7 py-3 text-sm font-semibold rounded-3xl bg-[#F4EBE1] text-[#3F2A1E] hover:bg-[#EAE0D5] transition-all">
+        Parcerias
+    </button>
+</nav>
+    </div>
+</header>
+
+    <!-- HERO -->
+<div class="max-w-screen-xl mx-auto px-8 pt-20 pb-8">
+    <div class="text-center max-w-2xl mx-auto">
+        <h1 class="section-title text-7xl md:text-[62px] font-bold tracking-tighter text-[#3F2A1E] leading-none mb-4">
+            A plataforma digital de adoção responsável
+        </h1>
+        <p class="text-xl md:text-2xl text-[#5C4033]/80 max-w-lg mx-auto font-medium">
+           O começo de novas histórias
+        </p>
+    </div>
+</div>
+
+    <!-- MATCHING SECTION -->
+    <div id="matching-section" class="max-w-screen-xl mx-auto px-8 pb-14">
+        <div class="bg-white rounded-3xl shadow-2xl border border-[#FF9F1C10] p-10 md:p-12">
+            
+            <div class="w-full text-center mb-10">
+    <div class="w-full text-center mb-10">
+    <div class="inline-flex items-center justify-center gap-x-4 mb-2 mx-auto">
+        <span class="text-4xl flex-shrink-0">🐾</span>
+        <!-- Frase atualizada aqui -->
+        <h2 class="section-title text-4xl font-bold tracking-tight text-[#3F2A1E] m-0 p-0 block">
+            Aqui você encontra o seu match perfeito
+        </h2>
+    </div>
+    <p class="text-[#5C4033]/80 text-base mt-2">Responda 4 perguntas simples e descubra o pet que mais combina com seu estilo de vida</p>
+</div>
+    
+
+            <!-- Filters -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <!-- Porte -->
+                <div class="filter-card bg-[#FFF8F0] rounded-3xl p-6 border border-[#FF9F1C15]">
+                    <div class="flex items-center gap-x-3 mb-4">
+                        <div class="w-10 h-10 bg-[#FF9F1C] rounded-2xl flex items-center justify-center flex-shrink-0">
+                            <span class="text-white text-2xl">🐕</span>
+                        </div>
+                        <label class="font-semibold text-[#3F2A1E] text-lg">Porte do Animal</label>
+                    </div>
+                    <select id="porte" class="modern-select w-full bg-white border border-[#FF9F1C30] text-[#3F2A1E] rounded-2xl px-5 py-3.5 text-base font-medium">
+                        <option value="">Escolha</option>
+                        <option value="Pequeno">Pequeno</option>
+                        <option value="Médio">Médio</option>
+                        <option value="Grande">Grande</option>
+                    </select>
+                </div>
+
+                <!-- Energia -->
+                <div class="filter-card bg-[#FFF8F0] rounded-3xl p-6 border border-[#FF9F1C15]">
+                    <div class="flex items-center gap-x-3 mb-4">
+                        <div class="w-10 h-10 bg-[#FF6B35] rounded-2xl flex items-center justify-center flex-shrink-0">
+                            <span class="text-white text-2xl">⚡</span>
+                        </div>
+                        <label class="font-semibold text-[#3F2A1E] text-lg">Nível de Energia</label>
+                    </div>
+                    <select id="energia" class="modern-select w-full bg-white border border-[#FF9F1C30] text-[#3F2A1E] rounded-2xl px-5 py-3.5 text-base font-medium">
+                        <option value="">Escolha</option>
+                        <option value="1">1 — Muito Calmo</option>
+                        <option value="2">2 — Tranquilo</option>
+                        <option value="3">3 — Moderado</option>
+                        <option value="4">4 — Ativo</option>
+                        <option value="5">5 — Muito Agitado</option>
+                    </select>
+                </div>
+
+                <!-- Espaço -->
+                <div class="filter-card bg-[#FFF8F0] rounded-3xl p-6 border border-[#FF9F1C15]">
+                    <div class="flex items-center gap-x-3 mb-4">
+                        <div class="w-10 h-10 bg-[#A8DADC] rounded-2xl flex items-center justify-center flex-shrink-0">
+                            <span class="text-[#3F2A1E] text-2xl">🏠</span>
+                        </div>
+                        <label class="font-semibold text-[#3F2A1E] text-lg">Espaço em Casa</label>
+                    </div>
+                    <select id="espaco" class="modern-select w-full bg-white border border-[#FF9F1C30] text-[#3F2A1E] rounded-2xl px-5 py-3.5 text-base font-medium">
+                        <option value="">Escolha</option>
+                        <option value="Apartamento">Apartamento</option>
+                        <option value="Casa com quintal pequeno">Quintal pequeno</option>
+                        <option value="Casa com quintal grande">Quintal grande</option>
+                    </select>
+                </div>
+
+                <!-- Temperamento -->
+                <div class="filter-card bg-[#FFF8F0] rounded-3xl p-6 border border-[#FF9F1C15]">
+                    <div class="flex items-center gap-x-3 mb-4">
+                        <div class="w-10 h-10 bg-[#FF9A8B] rounded-2xl flex items-center justify-center flex-shrink-0">
+                            <span class="text-white text-2xl">❤️</span>
+                        </div>
+                        <label class="font-semibold text-[#3F2A1E] text-lg">Temperamento</label>
+                    </div>
+                    <select id="temperamento" class="modern-select w-full bg-white border border-[#FF9F1C30] text-[#3F2A1E] rounded-2xl px-5 py-3.5 text-base font-medium">
+                        <option value="">Escolha</option>
+                        <option value="Brincalhão">Brincalhão</option>
+                        <option value="Dócil">Dócil</option>
+                        <option value="Sociável">Sociável</option>
+                        <option value="Agitado">Agitado</option>
+                        <option value="Protetor">Protetor</option>
+                        <option value="Calmo">Calmo</option>
+                    </select>
+                </div>
+            </div>
+
+  <!-- Bloco de Consentimento LGPD com Nome Objetivo -->
+<div class="mt-8 mb-6 p-5 bg-[#FFF8F0] border border-[#FF9F1C30] rounded-2xl max-w-xl mx-auto text-center">
+    <!-- Linha 1: Título Curto e Direto -->
+    <div class="block mb-3">
+        <button type="button" onclick="openLgpdModal()" class="text-[#FF9F1C] underline font-bold text-base hover:text-[#e08b14] transition-colors">
+            Termo de Consentimento para o cadastro de adotantes
+        </button>
+    </div>
+    
+    <!-- Linha 2: Checkbox Centralizado -->
+    <div class="flex items-center justify-center gap-x-2.5">
+        <input type="checkbox" id="aceiteLgpd" class="w-5 h-5 rounded border-orange-300 text-[#FF9F1C] focus:ring-[#FF9F1C] cursor-pointer">
+        <label for="aceiteLgpd" class="text-sm font-semibold text-[#5C4033] select-none cursor-pointer">
+            Li e estou de acordo.
+        </label>
+    </div>
+</div>
+
+            <!-- Big Match Button -->
+            <div class="mt-10 flex justify-center">
+                <button onclick="buscar()" 
+                        class="match-btn text-white font-extrabold text-xl px-16 py-5 rounded-3xl flex items-center gap-x-4 shadow-2xl active:scale-[0.985]">
+                    <span>EXECUTAR MATCH</span>
+                    <span class="text-3xl">🐾</span>
+                </button>
+            </div>
+            
+          
+<p class="text-center text-sm md:text-base font-semibold text-[#FF9F1C] mt-5 tracking-wide uppercase">
+    Você está a um clique de encontrar o seu novo melhor amigo! 🐾
+</p>
+        </div>
+    </div>
+
+    <!-- RESULTS SECTION -->
+    <div class="max-w-screen-xl mx-auto px-8 pb-16">
+        <div id="resultados" class="min-h-[100px]">
+            <!-- Populado dinamicamente pelo script.js -->
+        </div>
+    </div>
+
+    <!-- ONG SECTION -->
+    <div id="parcerias-section" class="max-w-screen-xl mx-auto px-8 pb-16">
+        <div class="bg-[#F5E6D3] rounded-3xl p-8 flex flex-col md:flex-row gap-8 items-center justify-between shadow-sm">
+    
+    <!-- Lado Esquerdo: Título e Baixar Modelo -->
+    <div class="flex-1 flex flex-col items-start gap-y-4">
+        <div class="flex items-center gap-x-4">
+            <span class="text-4xl">🏛️</span>
+            <!-- Título principal com fonte serifada marcante -->
+            <h2 class="font-serif text-3xl font-bold text-[#3F2A1E] leading-tight">
+                Espaço da Instituição Parceira
+            </h2>
+        </div>
+
+        <p class="text-base text-[#5C4033]/90 max-w-md leading-relaxed">
+            Baixe o modelo de planilha para atualizar a base de dados do EloPet.
+        </p>
+        
+        <button onclick="baixarModelo()" class="bg-white hover:bg-orange-50 text-[#3F2A1E] font-semibold px-6 py-3 rounded-2xl text-sm border border-orange-100 flex">
+    <span>📥</span> Baixar Modelo (.CSV)
+</button>
+    </div>
+
+    <!-- Lado Direito: Card Branco de Upload -->
+    <div class="bg-white rounded-3xl p-6 md:p-8 w-full md:max-w-md border border-[#FF9F1C10] shadow-sm">
+        <!-- 1. Título do Card: Ganhou destaque e peso -->
+        <label class="block text-lg font-bold text-[#3F2A1E] mb-4">
+            Atualizar Base de Dados
+        </label>
+        
+        <!-- Área de Ações (Inputs e Botão) -->
+        <div class="flex flex-col sm:flex-row gap-3 items-stretch mb-3">
+            <div class="flex-1">
+                <input type="file" id="arquivoPlanilha" accept=".csv" class="hidden">
+                <!-- 2. Botão de Selecionar: Mais discreto e elegante -->
+                <label for="arquivoPlanilha" 
+                       class="cursor-pointer h-12 flex items-center justify-center gap-x-2 border-2 border-dashed border-orange-200 hover:border-[#FF9F1C] transition-colors rounded-2xl px-4 text-sm font-medium text-[#5C4033] bg-[#FFFDFB]">
+                    <span class="text-lg">📁</span> 
+                    <span>Selecionar CSV</span>
+                </label>
+            </div>
+            
+            <!-- 3. Botão Enviar: Fonte controlada para não gritar no layout -->
+            <button class="h-12 bg-[#10B981] hover:bg-[#059669] text-white font-bold px-6 rounded-2xl text-sm transition-all shadow-sm">
+                Enviar Arquivo
+            </button>
+        </div>
+        
+        <!-- 4. Texto de Ajuda: Centralizado e sutil -->
+        <p class="text-xs text-center text-[#5C4033]/70">
+            Após selecionar, envie o arquivo para carregar os dados.
+        </p>
+    </div>
+
+</div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="border-t border-[#FF9F1C20] py-8 bg-white">
+        <div class="max-w-screen-xl mx-auto px-8 text-center text-sm text-[#5C4033]">
+            <div class="flex items-center justify-center gap-x-3 mb-1">
+                <span class="text-[#FF9F1C]">•</span> 
+                <span class="font-semibold">EloPet</span> 
+                
+                <span>Curitiba, Paraná</span>
+                <span class="text-[#FF9F1C]">•</span> 
+            </div>
+            <p class="text-xs">&copy; Desenvolvido por alunos do Curso de Desenvolvimento de Sistemas</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <!-- Modal LGPD -->
+<div id="lgpdModal" class="hidden fixed inset-0 z-[100] flex items-center justify-center bg-black/50 p-4 backdrop-blur-sm">
+    <div class="bg-white rounded-3xl max-w-2xl w-full max-h-[80vh] flex flex-col shadow-2xl animate-fade-in">
+        
+        <!-- Cabeçalho do Modal -->
+        <div class="p-6 border-b border-orange-100 flex items-center justify-between">
+            <h3 class="text-lg font-bold text-[#3F2A1E]">TERMO DE CONSENTIMENTO DO ADOTANTE (LGPD)</h3>
+            <button onclick="closeLgpdModal()" class="text-2xl text-gray-400 hover:text-gray-600 transition-colors">&times;</button>
+        </div>
+        
+        <!-- Corpo com Scroll do Texto enviado -->
+        <div class="p-6 overflow-y-auto text-sm text-[#5C4033] space-y-4 leading-relaxed bg-[#FFFDFB]">
+            <p class="font-bold text-center border-b border-orange-100 pb-2">CADASTRO DE ADOTANTES</p>
+            <p>Este documento visa registrar o consentimento livre, informado e inequívoco do usuário, em conformidade com a Lei Geral de Proteção de Dados Pessoais (LGPD) — Lei nº 13.709/2018, para o tratamento de seus dados pessoais pela equipe desenvolvedora da plataforma EloPet e instituições vinculadas.</p>
+            
+            <p class="font-semibold text-[#3F2A1E]">1. Dados Coletados</p>
+            <p>A plataforma EloPet coletará e processará os seguintes dados para viabilizar o cruzamento de perfis de adoção de forma segura:<br>
+            a) Nome completo, CPF e Documento de Identidade (RG);<br>
+            b) Dados de contato (Telefone, E-mail e Endereço Residencial Completo);<br>
+            c) Informações sobre rotina familiar, espaço físico residencial e experiência prévia com animais de estimação (através do questionário de triagem).</p>
+            
+            <p class="font-semibold text-[#3F2A1E]">2. Finalidade do Tratamento</p>
+            <p>Os dados coletados serão utilizados estritamente para as seguintes finalidades:<br>
+            • Realização do cruzamento inteligente de perfis (match) entre famílias adotantes e animais disponíveis em ONGs, abrigos e protetores parceiros;<br>
+            • Validação e emissão do Certificado de Adoção Responsável em formato PDF com código único de autenticação;<br>
+            • Garantia da segurança jurídica e rastreabilidade dos processos de adoção intermediados pelo sistema.</p>
+            
+            <p class="font-semibold text-[#3F2A1E]">3. Segurança, Compartilhamento e Retenção</p>
+            <p>A equipe EloPet compromete-se a adotar medidas de segurança aptas a proteger os dados pessoais de acessos não autorizados. Os dados serão compartilhados exclusivamente com a ONG/Protetor responsável pelo animal escolhido após a confirmação do interesse mútuo de adoção, sendo proibida a comercialização de qualquer informação. Os dados permanecerão armazenados pelo período necessário para o cumprimento das finalidades descritas ou até a solicitação de exclusão por parte do titular.</p>
+            
+            <p class="font-semibold text-[#3F2A1E]">4. Direitos do Titular</p>
+            <p>O titular dos dados tem direito a obter, a qualquer momento, a confirmação da existência de tratamento, acesso aos dados, correção de dados incompletos ou inexatos, e a revogação deste consentimento mediante solicitação formal à plataforma.</p>
+            
+            <p class="bg-orange-50 p-3 rounded-xl border border-orange-100 italic">Ao aceitar eletronicamente este termo, o usuário declara estar ciente e de pleno acordo com as práticas de tratamento de dados descritas.</p>
+        </div>
+        
+        <!-- Rodapé do Modal -->
+        <div class="p-4 border-t border-orange-100 flex justify-end">
+            <button onclick="closeLgpdModal()" class="bg-[#FF9F1C] hover:bg-[#e08b14] text-white font-semibold px-6 py-2.5 rounded-full text-sm transition-all">
+                Entendi e Fechar
+            </button>
+        </div>
+    </div>
+</div>
+</body>
+</html>
