@@ -85,5 +85,5 @@ async function buscar() {
 }
 
 function baixarModelo() {
-    window.location.href = 'http://localhost:3000/api/download-modelo';
+    window.location.href = 'https://elopet-1jq3.onrender.com/api/download-modelo';
 }
