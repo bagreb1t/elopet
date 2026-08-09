@@ -87,3 +87,8 @@ async function buscar() {
 function baixarModelo() {
     window.location.href = 'https://elopet-1jq3.onrender.com/api/download-modelo';
 }
+
+function adotar(nome, temperamento, idade) {
+    const url = `https://elopet-1jq3.onrender.com/api/certificado?nome=${encodeURIComponent(nome)}&temperamento=${encodeURIComponent(temperamento)}&idade=${encodeURIComponent(idade)}`;
+    window.location.href = url;
+}
