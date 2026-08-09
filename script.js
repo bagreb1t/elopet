@@ -88,7 +88,44 @@ function baixarModelo() {
     window.location.href = 'https://elopet-1jq3.onrender.com/api/download-modelo';
 }
 
-function adotar(nome, temperamento, idade) {
-    const url = `https://elopet-1jq3.onrender.com/api/certificado?nome=${encodeURIComponent(nome)}&temperamento=${encodeURIComponent(temperamento)}&idade=${encodeURIComponent(idade)}`;
-    window.location.href = url;
+async function adotar(nome, temperamento, idade) {
+    // Solicita o nome e CPF do adotante para gerar o documento oficial
+    const adotante = prompt("Para gerar o certificado, digite seu Nome Completo:");
+    if (!adotante) return;
+
+    const adotanteCpf = prompt("Digite seu CPF:");
+    if (!adotanteCpf) return;
+
+    try {
+        const response = await fetch('https://elopet-1jq3.onrender.com/api/adotar', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                adotante: adotante,
+                adotanteCpf: adotanteCpf,
+                petNome: nome,
+                petIdade: idade
+            })
+        });
+
+        if (!response.ok) {
+            throw new Error('Erro ao gerar certificado de adoção.');
+        }
+
+        // Recebe o PDF e dispara o download no navegador do usuário
+        const blob = await response.blob();
+        const url = window.URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `Certificado-${nome}.pdf`;
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+        window.URL.revokeObjectURL(url);
+
+    } catch (erro) {
+        alert("Falha ao gerar o certificado: " + erro.message);
+    }
 }
