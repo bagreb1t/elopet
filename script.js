@@ -1,4 +1,11 @@
 async function buscar() {
+    
+const aceite = document.getElementById('aceiteLgpd');
+if (aceite && !aceite.checked) {
+    alert("Por favor, aceite o Termo de Consentimento para prosseguir com a busca.");
+    return;
+}
+
     const porte = document.getElementById('porte').value;
     const energia = document.getElementById('energia').value;
     const espaco = document.getElementById('espaco').value;
@@ -128,4 +135,14 @@ async function adotar(nome, temperamento, idade) {
     } catch (erro) {
         alert("Falha ao gerar o certificado: " + erro.message);
     }
+}
+// Funções para Controle do Modal LGPD
+function openLgpdModal() {
+    const modal = document.getElementById('lgpdModal');
+    if (modal) modal.classList.remove('hidden');
+}
+
+function closeLgpdModal() {
+    const modal = document.getElementById('lgpdModal');
+    if (modal) modal.classList.add('hidden');
 }
