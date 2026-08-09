@@ -12,8 +12,7 @@ async function buscar() {
     `;
 
     try {
-        const url = `https://elopet-1jq3.onrender.com](https://elopet-1jq3.onrender.com/api/match?porte=${encodeURIComponent(porte)}&energia=${encodeURIComponent(energia)}&espaco=${encodeURIComponent(espaco)}&temperamento=${encodeURIComponent(temperamento)}`;
-
+        const url = `https://elopet-1jq3.onrender.com/api/match?porte=${encodeURIComponent(porte)}&energia=${encodeURIComponent(energia)}&espaco=${encodeURIComponent(espaco)}&temperamento=${encodeURIComponent(temperamento)}`;
         const res = await fetch(url);
 
         if (!res.ok) {
