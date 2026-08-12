@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(fileUpload());
 app.use(express.static('.'));
 
-// escolhe automaticamente o arquivo de dados disponível
+// arquivo de dados disponível
 const CAMINHO_DADOS = fs.existsSync('./dados_tratados.json')
   ? './dados_tratados.json'
   : './dados_treatments.json';
@@ -53,7 +53,7 @@ app.get('/api/download-modelo', (req, res) => {
     // Instruções alinhadas diretamente abaixo de cada coluna correspondente
     const linhaOpcoes = "OPÇÕES ACEITAS:,Pequeno | Médio | Grande,1 a 5 (1=Calmo / 5=Agitado),Apartamento | Quintal pequeno | Quintal grande,Brincalhão | Dócil | Sociável | Agitado | Protetor | Calmo,Sim | Não,Apenas números (Ex: 2)\n";
     
-    // Exemplo de preenchimento real para servir de modelo
+    // Exemplo de preenchimento
     const exemplo = "Rex,Grande,5,Quintal grande,Agitado,Sim,3\n";
 
     // Unindo todo o conteúdo
@@ -70,7 +70,7 @@ app.get('/api/download-modelo', (req, res) => {
   }
 });
 
-// rota de matchmaking
+// matchmaking
 app.get('/api/match', (req, res) => {
   try {
     const { porte, energia, espaco, temperamento } = req.query;
@@ -103,7 +103,7 @@ app.get('/api/match', (req, res) => {
   }
 });
 
-// gerar certificado PDF
+// Certificado PDF
 app.post('/api/adotar', async (req, res) => {
   try {
     const { adotante, adotanteCpf, petNome, petIdade } = req.body;

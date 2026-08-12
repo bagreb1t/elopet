@@ -53,7 +53,7 @@ if (aceite && !aceite.checked) {
                 console.log("Não foi possível carregar imagem da API. Usando imagem padrão.");
             }
 
-            // Tratamento das propriedades para evitar 'undefined' na tela
+            // para evitar 'undefined' na tela
             const idade = pet.idade_estimada ?? pet.idade ?? 'Não informada';
             const vacinaStatus = pet.vacinado ?? pet.vacina ?? 'Não informado';
 
@@ -78,7 +78,7 @@ if (aceite && !aceite.checked) {
                 </div>
             `;
 
-            container.appendChild(card); // Inserção única mantida
+            container.appendChild(card); 
         }
 
     } catch (e) {
@@ -96,7 +96,7 @@ function baixarModelo() {
 }
 
 async function adotar(nome, temperamento, idade) {
-    // Solicita o nome e CPF do adotante para gerar o documento oficial
+    // gerar o documento oficial
     const adotante = prompt("Para gerar o certificado, digite seu Nome Completo:");
     if (!adotante) return;
 
@@ -121,7 +121,7 @@ async function adotar(nome, temperamento, idade) {
             throw new Error('Erro ao gerar certificado de adoção.');
         }
 
-        // Recebe o PDF e dispara o download no navegador do usuário
+        // Recebe o PDF e download no navegador do usuário
         const blob = await response.blob();
         const url = window.URL.createObjectURL(blob);
         const a = document.createElement('a');
